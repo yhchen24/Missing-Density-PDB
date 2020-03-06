@@ -1,8 +1,11 @@
 # Missing-Density-PDB
 <<<<<<< HEAD
-
 <<<<<<< HEAD
 =======
+
+from IPython.display import Image
+Image(filename='Logo.PNG')
+
 ## This is Henry, You-Hsin, Jenny's package
 ## copyright preserved
 
