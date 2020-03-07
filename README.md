@@ -1,10 +1,27 @@
-# Missing-Density-PDB
-
 ![Logo](Logo.png "Logo")
 
-## This is Henry, You-Hsin, Jenny's package
-## copyright preserved
+# Missing-Density-PDB
 
-Hello partners! --Henry
+PDB autofill classifies the reason behind missing electron densities in crystallographic experimental data from the Protein Data Bank.
 
-PDB autofill classifies the reason behind missing electron densities in experimental data from the Protein Data Bank.
+## Table of Contents
+* Links to sections here.
+
+## Features
+
+## Example
+
+## Installation
+
+## Features
+
+## Team
+
+## Support
+
+Reach out at one of the following places!
+* Twitter at ___
+* Insert more social links here.
+
+## License
+* Link to License here.
