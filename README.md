@@ -1,4 +1,4 @@
-![Logo](Logo.png "Logo")
+![Logo](doc/Logo.png "Logo")
 
 # Missing-Density-PDB
 
