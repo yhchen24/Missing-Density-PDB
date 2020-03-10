@@ -5,21 +5,29 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ## Table of Contents
-* Links to sections here.
+* Link the listed sections below...
+* Features
+* Example
+* Installation
+* Team
+* Support
+* License
 
 ## Features
 
 ## Example
+`` import Bio
+   etc. more code here to show our example... ``
 
 ## Installation
-
-## Features
+1. Install Biopython
+2. Conda install PDBAutofill ``conda install PDBAutofill``
+3. More detail to come as we figure this out :)
 
 ## Team
 This is Henry, You-Hsin, Jenny's package!
 
 ## Support
-
 Reach out at one of the following places!
 * Twitter at [@jennybennett02](https://twitter.com/jennybennett02)
 * Insert more social links here.
