@@ -1,4 +1,4 @@
-![Logo](Logo.png "Logo")
+![Logo](doc/Logo.png "Logo")
 
 PDB autofill classifies the reason behind missing electron densities in crystallographic experimental data from the Protein Data Bank.
 
