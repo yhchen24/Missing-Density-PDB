@@ -1,6 +1,6 @@
 ![Logo](Logo.png "Logo")
 
-# Missing-Density-PDB
+# PDB Autofill
 
 PDB autofill classifies the reason behind missing electron densities in crystallographic experimental data from the Protein Data Bank.
 
