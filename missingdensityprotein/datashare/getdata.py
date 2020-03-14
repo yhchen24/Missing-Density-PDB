@@ -1,12 +1,20 @@
 from httplib2 import Http
 from oauth2client import file, client, tools
 from apiclient import discovery
+import requests
 import io
 import os
 from googleapiclient.http import MediaIoBaseDownload
 
 
-def getSamples():
+def get_samples():
+    credential = 'client_id.json'
+    url = 'https://github.com/yhchen24/Missing-Density-PDB/\
+        raw/master/missingdensityprotein/datashare/client_id.json'
+    if not os.path.exists(credential):
+        req = requests.get(url)
+        with open(credential, 'wb') as f:
+            f.write(req.content)
     obj = lambda: None
     lmao = {"auth_host_name": 'localhost',
             'noauth_local_webserver': 'store_true',
