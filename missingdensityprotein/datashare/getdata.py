@@ -8,6 +8,14 @@ from googleapiclient.http import MediaIoBaseDownload
 
 
 def get_samples():
+    """
+    This method can download samples used in example from out drive.
+    When executing the method, it will prompt a link and an input box.
+    To get the verification code, you have to click the link and then
+    choose the google account. Copy the code shown on screen and paste
+    it to the input box. Then, it will create a token.json and a folder
+    named ExampleData. There are four csv files in the ExampleData folder.
+    """
     credential = 'client_id.json'
     url = 'https://github.com/yhchen24/Missing-Density-PDB/\
         raw/master/missingdensityprotein/datashare/client_id.json'
