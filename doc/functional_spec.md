@@ -20,16 +20,3 @@ Joe is an experimentalist who will be using the tool to determine whether he exp
 * Joe will use this software to determine whether he should expect missing densities in his experiment.
 * Joes will use this software to classify why some experiments will result in missing densities.
 * Joes will use this software to predict the missing densities that are not visible in the experiment.
-
-
-### User Interface
-
-The user interface for this software is any python environment. (If you are new to python, we recommend [Jupyter Notebook](https://jupyter.org/install)).
-
-
-### Milestones
-
-1. Extract a dataset from PDB consisting of 500 proteins with missing densities and 500 without missing densities
-2. Extract useful information about each protein in our dataset to feed into the random forest model
-3. Milestone 1: classify the reason behind missing densities using a random forest model
-4. Milestone 2 (stretch goal): predict the missing 3D coordinates using a neural network
