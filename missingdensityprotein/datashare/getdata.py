@@ -14,7 +14,8 @@ def get_samples():
     To get the verification code, you have to click the link and then
     choose the google account. Copy the code shown on screen and paste
     it to the input box. Then, it will create a token.json and a folder
-    named ExampleData. There are four csv files in the ExampleData folder.
+    named ExampleData. There are four csv files and two zip file including
+    20 pdb files and 3000 pdbfiles in the ExampleData folder.
     """
     credential = 'client_id.json'
     url = 'https://github.com/yhchen24/Missing-Density-PDB/\
@@ -40,11 +41,15 @@ def get_samples():
     file_id = ['1GXkUZzSUFu0F_tMMI1FtNA42eTiwx_G8',
                '1Nl1a5GFam5y9J0V9Nm8uo2hDoMdx9BnI',
                '1YwjTZAhtUJwUr54Ao1X40VwUHeCvJ8F7',
-               '1PQgmaFljME2WaCiTBRUSWdAV70bWRwax']
+               '1PQgmaFljME2WaCiTBRUSWdAV70bWRwax',
+               '1Nk9X6zMeDWDQcDHKTg7FtQCOX9nXe32J',
+               '1-USFXT-rbCKrrRAyVXZwNgUIyWKFu9JG']
     filename = ['headers_1000.csv',
                 'res_data_1000.csv',
                 'samples_1000.csv',
-                'summary_1000.csv']
+                'summary_1000.csv',
+                'small_data',
+                'all_data']
     if not os.path.exists('ExampleData/'):
         os.mkdir('ExampleData')
     for i in range(len(file_id)):
