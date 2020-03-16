@@ -12,7 +12,7 @@ Josie is a computational scientist who will be using the tool to determine the e
 
 * Josie will use this software to classify the reason her proteins of interest have missing densities in the PDB.
 * Josie will use this software to predict the missing densities in her proteins of interest.
-* Josie may also be interested in using the software to extract amino acid sequences in a CSV format for perform further analysis on her own.
+* Josie may also be interested in using the software to extract amino acid sequences in a CSV format to perform further analysis on her own.
 
 
 Joe is an experimentalist who will be using the tool to determine whether he expects to find missing densities in the protein for which he will be collecting X-Ray crystallographic data. He has limited programming experience, but is an expert user of tools like Excel and instrumentation control software.
