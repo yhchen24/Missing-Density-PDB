@@ -39,7 +39,7 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 
     Please see [https://keras.io/](https://keras.io/) or [https://github.com/keras-team/keras](https://github.com/keras-team/keras) for further details.
 
-3. Clone the git repository in the directory in which the package will be used using one of the two options below.
+3. Clone the git repository in the folder in which the package will be used. Choose one of the clone methods below.
 
     Option 1: Clone the repository in terminal.
 
