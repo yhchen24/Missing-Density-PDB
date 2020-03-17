@@ -1,4 +1,4 @@
-![Logo](doc/Logo.png "Logo")
+# PDB Autofill ![Logo](doc/Logo.png "Logo")
 
 PDB autofill classifies the reason behind missing electron densities in crystallographic experimental data from the Protein Data Bank, predicts the structure of the missing densities, and predicts whether a new X-ray crystallography experiment will result in missing residues.
 
@@ -12,20 +12,20 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 <!--ts-->
   * [Features](#features)
   * [Example](#example)
-  * Installation
-  * Team
-  * Support
-  * License
+  * [Installation](#installation)
+  * [Team](#team)
+  * [Support](#support)
+  * [License](#license)
 <!--te-->
 
 
 ## Features
 
+
 ## Example
-`import getdata`
-`getdata.get_samples()`
-` import Bio
-   etc. more code here to show our example... `
+`import getdata
+getdata.get_samples()`
+
 
 ## Installation
 1. Install Biopython using terminal
