@@ -7,15 +7,18 @@ import pandas as pd
 from Bio.PDB.PDBParser import PDBParser
 from glob import glob
 
+
 def samples_statistics(directory):
     """
-    This function would calculate how many files have missing residues, and helps you get new data frame
-    with 50% files have missing residues and 50% files have no missing residues.
+    This function would calculate how many files have missing residues,
+    and helps you get new data frame with 50% files have missing
+    residues and 50% files have no missing residues.
     :param directory: directory of pdb files, /local-folder/
-    :return: print total number of files, number of files w/ w/o missing residues, percentage of how many files have
-    missing residues, return dataset with 50% files w/ w/o missing residues
+    :return: print total number of files, number of files w/ w/o missing
+    residues, percentage of how many files have missing residues,
+    return dataset with 50% files w/ w/o missing residues
     """
-    #set parser in BioPython
+    # set parser in BioPython
     parser = PDBParser(PERMISSIVE=True)
     # create pdb_files as all .pdb file in the folder
     pdb_files = glob(directory + '*.pdb')
@@ -26,17 +29,20 @@ def samples_statistics(directory):
     reslist = []
 
     for filename in pdb_files:
-        base = os.path.basename(filename) # grab filename contained extension from path
-        structure_id = os.path.splitext(base)[0] # split filename and Extension, take the former
-        data = parser.get_structure(structure_id, filename) # get structure
+        # grab filename contained extension from path
+        base = os.path.basename(filename)
+        # split filename and Extension, take the former
+        structure_id = os.path.splitext(base)[0]
+        # get structure
+        data = parser.get_structure(structure_id, filename)
 
         # Get informaation from header that if files have missing residues
         # Append to different list
         keywords = data.header["has_missing_residues"]
         reslist.append(keywords)
-        if keywords == True:
+        if keywords is True:
             res_missing.append(structure_id)
-        elif keywords == False:
+        elif keywords is False:
             res_nomissing.append(structure_id)
 
     print('Total number of samples:', len(reslist))
@@ -49,9 +55,10 @@ def samples_statistics(directory):
     sample_nomissing = res_nomissing
     Samples_pdb = sample_missing + sample_nomissing
     print('New dataset has {} files'.format(len(Samples_pdb)))
-    new_samples = pd.DataFrame(Samples_pdb, columns = ['Protein'])
+    new_samples = pd.DataFrame(Samples_pdb, columns=['Protein'])
 
     return new_samples
+
 
 def extraction_residues_headers(directory, protein_list):
     """
@@ -76,17 +83,23 @@ def extraction_residues_headers(directory, protein_list):
     compound_list = []
 
     for filename in pdb_files:
-        base = os.path.basename(filename)  # grab filename contained extension from path
-        structure_id = os.path.splitext(base)[0]  # split filename and Extension, take the former
-        data = parser.get_structure(structure_id, filename)  # get structure
+        # grab filename contained extension from path
+        base = os.path.basename(filename)
+        # split filename and Extension, take the former
+        structure_id = os.path.splitext(base)[0]
+        # get structure
+        data = parser.get_structure(structure_id, filename)
 
         # get residues
-        res_list = []  # create null list of residues
+        # create null list of residues
+        res_list = []
         for model in data:
             for chain in model:
-                for residue in chain.get_residues():  # Iterate over all residues in the structure
-                    if residue.id[0] == ' ':  # check hetero-flag, omit cases of a glucose molecule
-                                              # and cases of a water molecule
+                # Iterate over all residues in the structure
+                for residue in chain.get_residues():
+                    # check hetero-flag, omit cases of a glucose molecule
+                    # and cases of a water molecule
+                    if residue.id[0] == ' ':
                         res_list.append(residue.get_resname())
         # Transform to dataframe and combine by column
         df_res = pd.DataFrame(data=res_list, columns=[structure_id])
@@ -101,15 +114,19 @@ def extraction_residues_headers(directory, protein_list):
         compound_list.append(data.header["compound"])
 
     # combine headers to one dataframe
-    data_protein =  pd.DataFrame(data=protein_list, columns=["protein"])
+    data_protein = pd.DataFrame(data=protein_list, columns=["protein"])
     data_name = pd.DataFrame(data=name_list, columns=["name"])
     data_head = pd.DataFrame(data=head_list, columns=["head"])
-    data_structure_method = pd.DataFrame(data=structure_method_list, columns=["structure_method"])
-    data_resolution = pd.DataFrame(data=resolution_list, columns=["resolution"])
-    data_has_missing_residues = pd.DataFrame(data=has_missing_residues_list, columns=["has_missing_residues"])
+    data_structure_method = pd.DataFrame(data=structure_method_list,
+                                         columns=["structure_method"])
+    data_resolution = pd.DataFrame(data=resolution_list,
+                                   columns=["resolution"])
+    data_has_missing_residues = pd.DataFrame(data=has_missing_residues_list,
+                                             columns=["has_missing_residues"])
     data_compound = pd.DataFrame(data=compound_list, columns=["compound"])
 
-    headers = pd.concat([data_protein, data_name, data_head, data_structure_method, data_resolution,
+    headers = pd.concat([data_protein, data_name, data_head,
+                         data_structure_method, data_resolution,
                          data_has_missing_residues], axis=1)
 
     return [res_data, headers]
