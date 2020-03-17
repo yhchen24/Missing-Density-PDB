@@ -1,4 +1,4 @@
-# PDB Autofill ![Logo](doc/Logo.png "Logo")
+![Logo](doc/Logo.png "Logo")
 
 PDB autofill classifies the reason behind missing electron densities in crystallographic experimental data from the Protein Data Bank, predicts the structure of the missing densities, and predicts whether a new X-ray crystallography experiment will result in missing residues.
 
@@ -23,18 +23,20 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 
 
 ## Example
-`import getdata
-getdata.get_samples()`
+```
+import getdata
+getdata.get_samples()
+```
 
 
 ## Installation
-1. Install Biopython using terminal
+1. Install Biopython on your local machine
 
     `conda install biopython`
 
     Please see [https://biopython.org](https://biopython.org) or [https://github.com/biopython/biopython](https://github.com/biopython/biopython) for further details.
 
-2. Install Keras using terminal
+2. Install Keras on your local machine
 
     `conda install tensorflow`
 
@@ -44,7 +46,7 @@ getdata.get_samples()`
 
 3. Clone the git repository in the folder in which the package will be used. Choose one of the clone methods below.
 
-    Option 1: Clone the repository in terminal.
+    Option 1: Clone the repository on your local machine using terminal:
 
     `git clone https://github.com/yhchen24/Missing-Density-PDB.git`
 
