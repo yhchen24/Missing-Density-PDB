@@ -1,6 +1,6 @@
 ## Component spec (Draft)
 
-![sequence_diagram](doc/sequence_diagram.png "sequence_diagram")
+![sequence_diagram](sequence_diagram.png "sequence_diagram")
 
 Use the use cases and things mentioned in them to create components
 
