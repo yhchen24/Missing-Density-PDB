@@ -45,7 +45,7 @@ Option 1: Clone the repository in terminal.
 `git clone https://github.com/yhchen24/Missing-Density-PDB.git`
 
 Option 2: Download the file directly from GitHub and unzip the components.
-![install_instructions](doc/install_instructions.png "install_instructions")
+![install_instructions](doc/install_instructions.PNG "install_instructions")
 
 
 ## Team
