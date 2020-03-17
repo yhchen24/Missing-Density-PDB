@@ -8,13 +8,16 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 
 
 ## Table of Contents
-* Link the listed sections below...
-* Features
-* Example
-* Installation
-* Team
-* Support
-* License
+
+<!--ts-->
+  * [Features](#features)
+  * [Example](#example)
+  * Installation
+  * Team
+  * Support
+  * License
+<!--te-->
+
 
 ## Features
 
