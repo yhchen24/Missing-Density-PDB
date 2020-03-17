@@ -1,10 +1,15 @@
 # Component Specification
 
-A sequence diagram of PDB Autofill can be seen below indicating the necessary components.
+## Sequence DiagramT
+
+he sequence diagram for PDB Autofill is included here to show the necessary components for classifying and predicting missing densities in PDB files in this package.
 
 ![sequence_diagram](sequence_diagram.png "sequence_diagram")
 
+
+## Component Cards
 Each component is described in further detail below:
+
 
 User interface
   * What it does: Collects information from the user.
@@ -12,11 +17,13 @@ User interface
   * Outputs: PDB datasets and/or experimental conditions from user.
   * How it interacts with other components: It sends PDB files to the data processing component and experimental conditions to the decision tree component.
 
+
 Data processing
   * What it does: Extracts amino acid sequences, experimental resolution, maximum anisotropic B factor, number of anisotropic B factors over 50, sequence lengths, number of electrically charged residues, number of hydrophobic residues, number of special case residues, number of nonpolar residues, and coordinates of atoms.
   * Inputs:
   * Outputs:
   * How it interacts with other components:
+
 
 Decision tree
   * What it does:
@@ -24,11 +31,13 @@ Decision tree
   * Outputs:
   * How it interacts with other components:
 
+
 Random forest
   * What it does:
   * Inputs:
   * Outputs:
   * How it interacts with other components:
+
 
 Neural network
   * What it does:
