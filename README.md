@@ -27,24 +27,25 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 ## Installation
 1. Install Biopython using terminal
 
-`conda install biopython`
+    `conda install biopython`
 
-Please see [https://biopython.org](https://biopython.org) or [https://github.com/biopython/biopython](https://github.com/biopython/biopython) for further details.
+    Please see [https://biopython.org](https://biopython.org) or [https://github.com/biopython/biopython](https://github.com/biopython/biopython) for further details.
 
 2. Install Keras using terminal
 
-`conda install tensorflow`
+    `conda install tensorflow`
 
-`conda install keras`
+    `conda install keras`
 
-Please see [https://keras.io/](https://keras.io/) or [https://github.com/keras-team/keras](https://github.com/keras-team/keras) for further details.
+    Please see [https://keras.io/](https://keras.io/) or [https://github.com/keras-team/keras](https://github.com/keras-team/keras) for further details.
 
 3. Clone the git repository in the directory in which the package will be used using one of the two options below.
 
-Option 1: Clone the repository in terminal.
-`git clone https://github.com/yhchen24/Missing-Density-PDB.git`
+    Option 1: Clone the repository in terminal.
 
-Option 2: Download the file directly from GitHub and unzip the components.
+    `git clone https://github.com/yhchen24/Missing-Density-PDB.git`
+
+    Option 2: Download the file directly from GitHub and unzip the components.
 ![install_instructions](doc/install_instructions.PNG "install_instructions")
 
 
