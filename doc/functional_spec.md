@@ -12,7 +12,7 @@ If time permits, the stretch goal is to then predict the x-y-z positions of miss
 
 Josie is a computational scientist who will be using the tool to determine the expected structure of her proteins of interest. She is very comfortable using python packages to analyze her data.
 
-* Josie will use this package to classify the reason her proteins of interest have missing densities in the PDB.
+* Josie will use this package to classify why her proteins of interest have missing densities in the PDB.
 * Josie will use this package to predict the missing densities in her proteins of interest.
 * Josie may also be interested in using the package to extract amino acid sequences in a CSV format to perform further analysis on her own.
 
@@ -21,10 +21,10 @@ Joe is an experimentalist who will be using the tool to determine whether he exp
 
 * Joe will use this package to determine whether he should expect missing densities in his experiment.
 * Joes will use this package to classify why some experiments will result in missing densities.
-* Joes will use this package to predict the missing densities that are not visible in the experiment.
+* Joes will use this package to predict the missing densities that are not captured in the experiment.
 
 
-John is interested in learning why a group of proteins he is studying all have missing densities. He is interested to know whether there is a common feature for why this group of proteins resulted in missing residues.
+John is interested in learning why a group of protein have missing densities. He is interested to know whether there is a common feature for why this group of proteins resulted in missing residues.
 
 * John will use this package to classify why the group of proteins he is studying has missing densities.
-* John will also use this package to predict the missing densities in his group of proteins and see whether the predictions are similar in structure.
+* John will use this package to predict the missing densities in his group of proteins and see whether the predictions are similar in structure.
