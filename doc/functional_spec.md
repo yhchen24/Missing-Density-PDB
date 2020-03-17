@@ -1,12 +1,12 @@
-## Functional Specification
+# Functional Specification
 
 
-### Purpose
+## Purpose
 
 The **goal of PDB autofill is to classify the reason for missing densities** in crystallographic data from the Protein Data Bank (PDB). If time permits, the stretch goal is to then predict the x-y-z positions of missing densities found in PDB files.
 
 
-### Example Use Cases
+## Example Use Cases
 
 Josie is a computational scientist who will be using the tool to determine the expected structure of her proteins of interest. She is very comfortable using python packages to analyze her data.
 
