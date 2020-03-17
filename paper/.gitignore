@@ -1,0 +1,9 @@
+# ignore ipynb checkpoints
+.ipynb_checkpoints/
+
+# ignore pdb and ent file
+*.pdb
+*.ent
+
+# ignore zip
+*.zip
