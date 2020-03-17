@@ -1,45 +1,46 @@
 # Component Specification
 
-## Sequence DiagramT
+## Sequence Diagram
 
-he sequence diagram for PDB Autofill is included here to show the necessary components for classifying and predicting missing densities in PDB files in this package.
+The sequence diagram for PDB Autofill is included here to show the necessary components for classifying and predicting missing densities in PDB files in this package.
 
 ![sequence_diagram](sequence_diagram.png "sequence_diagram")
 
 
 ## Component Cards
-Each component is described in further detail below:
+
+Each component card describes what the component does, what are the inputs, what are the outputs, and how it interacts with other components in the package.
 
 
-User interface
+**User interface**
   * What it does: Collects information from the user.
   * Inputs: PDB dataset that includes proteins with missing densities and proteins without missing densities. Experimental information is optional if interested in determining whether an experiment is likely to result in missing densities.
   * Outputs: PDB datasets and/or experimental conditions from user.
   * How it interacts with other components: It sends PDB files to the data processing component and experimental conditions to the decision tree component.
 
 
-Data processing
+**Data processing**
   * What it does: Extracts amino acid sequences, experimental resolution, maximum anisotropic B factor, number of anisotropic B factors over 50, sequence lengths, number of electrically charged residues, number of hydrophobic residues, number of special case residues, number of nonpolar residues, and coordinates of atoms.
   * Inputs:
   * Outputs:
   * How it interacts with other components:
 
 
-Decision tree
+**Decision tree**
   * What it does:
   * Inputs:
   * Outputs:
   * How it interacts with other components:
 
 
-Random forest
+**Random forest**
   * What it does:
   * Inputs:
   * Outputs:
   * How it interacts with other components:
 
 
-Neural network
+**Neural network**
   * What it does:
   * Inputs:
   * Outputs:
