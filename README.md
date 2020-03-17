@@ -19,6 +19,8 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 ## Features
 
 ## Example
+`import getdata`
+`getdata.get_samples()`
 ` import Bio
    etc. more code here to show our example... `
 
