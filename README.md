@@ -45,7 +45,7 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 
     `git clone https://github.com/yhchen24/Missing-Density-PDB.git`
 
-    Option 2: Download the file directly from GitHub and unzip the components.
+    Option 2: Download the file directly from GitHub and unzip the components (see screenshot below).
 ![install_instructions](doc/install_instructions.PNG "install_instructions")
 
 
