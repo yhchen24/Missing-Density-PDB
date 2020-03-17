@@ -20,8 +20,8 @@ Josie is a computational scientist who will be using the tool to determine the e
 Joe is an experimentalist who will be using the tool to determine whether he expects to find missing densities in the protein for which he will be collecting X-Ray crystallographic data. He has limited programming experience, but has much experience using Excel and other scientific tools.
 
 * Joe will use this package to determine whether he should expect missing densities in his experiment.
-* Joes will use this package to classify why some experiments will result in missing densities.
-* Joes will use this package to predict the missing densities that are not captured in the experiment.
+* Joe will use this package to classify why some experiments will result in missing densities.
+* Joe will use this package to predict the missing densities that are not captured in the experiment.
 
 
 John is interested in learning why a group of protein have missing densities. He is interested to know whether there is a common feature for why this group of proteins resulted in missing residues.
