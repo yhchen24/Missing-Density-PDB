@@ -25,7 +25,12 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 ## Example
 ```
 import getdata
+import PDB_Data_Processing
+import protein_properties
+
+# downloads sample dataset into your local machine
 getdata.get_samples()
+
 ```
 
 
@@ -46,11 +51,11 @@ getdata.get_samples()
 
 3. Clone the git repository in the folder in which the package will be used. Choose one of the clone methods below.
 
-    Option 1: Clone the repository on your local machine using terminal:
+    Option 1: Clone the repository on your local machine using terminal
 
     `git clone https://github.com/yhchen24/Missing-Density-PDB.git`
 
-    Option 2: Download the file directly from GitHub and unzip the components (see screenshot below).
+    Option 2: Download the file directly from GitHub and unzip the components (see screenshot below)
 ![install_instructions](doc/install_instructions.PNG "install_instructions")
 
 
