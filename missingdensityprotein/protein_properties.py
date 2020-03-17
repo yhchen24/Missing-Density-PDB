@@ -1,11 +1,13 @@
-import pandas as pd
-
 '''
 This module includes functions for counting number of electrically charged
 residues, unpolar residues, hydrophobic residues, and special case residues.
 A grouping function is also available in this module to create a pandas
 dataframe including the features from the previously listed functions.
 '''
+
+
+import pandas as pd
+
 
 def electrically_charged_residues(protein_sequence):
     '''
@@ -72,6 +74,7 @@ def unpolar_residues(protein_sequence):
                 sum_unpolar += 1
             elif protein_sequence.iloc[i, j] == 'GLN':
                 sum_unpolar += 1
+
         # append to unpolar residue list
         unpolar.append(sum_unpolar)
 
@@ -115,6 +118,7 @@ def hydrophobic_residues(protein_sequence):
                 sum_hydrophobic += 1
             elif protein_sequence.iloc[i, j] == 'TRP':
                 sum_hydrophobic += 1
+
         # append to hydrophobic residue list
         hydrophobic.append(sum_hydrophobic)
 
@@ -148,6 +152,7 @@ def special_residues(protein_sequence):
                 sum_special += 1
             elif protein_sequence.iloc[i, j] == 'PRO':
                 sum_special += 1
+
         # append to special residue list
         special.append(sum_special)
 
@@ -171,10 +176,10 @@ def residue_groups(protein_sequence):
     '''
     # create empty lists for the following
     sequence_length = []
-    fraction_electrically_charged = [] # ARG, HIS, LYS, ASP, GLU
-    fraction_unpolar = [] # SER, THR, ASN, GLN
-    fraction_hydrophobic = [] # ALA, VAL, ILE, LEU, MET, PHE, TYR, TRP
-    fraction_special = [] # CIS, GLY, PRO
+    fraction_electrically_charged = []  # ARG, HIS, LYS, ASP, GLU
+    fraction_unpolar = []  # SER, THR, ASN, GLN
+    fraction_hydrophobic = []  # ALA, VAL, ILE, LEU, MET, PHE, TYR, TRP
+    fraction_special = []  # CIS, GLY, PRO
 
     index = protein_sequence.columns
     width = len(index)
@@ -187,20 +192,23 @@ def residue_groups(protein_sequence):
 
     # count sequence length for each protein
     for i in range(width):
-        sequence_length.append(protein_sequence.iloc[:,i].count())
+        sequence_length.append(protein_sequence.iloc[:, i].count())
 
     # compute the fraction of categorized residue per total protein length
     for i in range(width):
-        fraction_electrically_charged.append(electrically_charged[i]/sequence_length[i])
+        fraction_electrically_charged.append(electrically_charged[i] /
+                                             sequence_length[i])
         fraction_unpolar.append(unpolar[i]/sequence_length[i])
         fraction_hydrophobic.append(hydrophobic[i]/sequence_length[i])
         fraction_special.append(special[i]/sequence_length[i])
 
     # form dataframe with fractions of residues
     properties = pd.DataFrame({'Sequence Length': sequence_length,
-        'Electrically Charged': fraction_electrically_charged,
-        'Nonpolar Side Chains': fraction_unpolar,
-        'Hydrophobic': fraction_hydrophobic,
-        'Special': fraction_special}, index=index, dtype='int')
-    
+                               'Electrically Charged':
+                               fraction_electrically_charged,
+                               'Nonpolar Side Chains': fraction_unpolar,
+                               'Hydrophobic': fraction_hydrophobic,
+                               'Special': fraction_special},
+                              index=index, dtype='int')
+
     return properties
