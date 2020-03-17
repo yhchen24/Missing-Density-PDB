@@ -1,4 +1,6 @@
-## Component spec (Draft/Template)
+## Component spec (Draft)
+
+![sequence_diagram](doc/sequence_diagram.png "sequence_diagram")
 
 Use the use cases and things mentioned in them to create components
 
@@ -7,6 +9,7 @@ Two top level components come up right away
 
 1. A database
 2. A user interface
+3.
 
 (likely many more and some that are sub-components of the above. For each component, you can use the following template to create a component 'card' in the form:
 
