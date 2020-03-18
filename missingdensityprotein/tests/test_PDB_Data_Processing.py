@@ -1,5 +1,5 @@
 import numpy as np
-import PDB_Data_Processing
+import dataprocess.PDB_Data_Processing as PDB_Data_Processing
 
 
 '''
