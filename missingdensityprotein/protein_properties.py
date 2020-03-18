@@ -181,8 +181,8 @@ def residue_groups(protein_sequence):
     fraction_hydrophobic = []  # ALA, VAL, ILE, LEU, MET, PHE, TYR, TRP
     fraction_special = []  # CIS, GLY, PRO
 
-    index = protein_sequence.columns
-    width = len(index)
+    protein = protein_sequence.columns
+    width = len(protein)
 
     # compute the following from functions in pdb_autofill package
     electrically_charged = electrically_charged_residues(protein_sequence)
@@ -203,12 +203,11 @@ def residue_groups(protein_sequence):
         fraction_special.append(special[i]/sequence_length[i])
 
     # form dataframe with fractions of residues
-    properties = pd.DataFrame({'Sequence Length': sequence_length,
-                               'Electrically Charged':
+    properties = pd.DataFrame({'Protein': protein, 'Sequence Length':
+                               sequence_length, 'Electrically Charged':
                                fraction_electrically_charged,
                                'Nonpolar Side Chains': fraction_unpolar,
                                'Hydrophobic': fraction_hydrophobic,
-                               'Special': fraction_special},
-                              index=index, dtype='int')
+                               'Special': fraction_special}, dtype='int')
 
     return properties
