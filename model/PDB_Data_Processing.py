@@ -80,6 +80,10 @@ def extraction_residues_headers(directory, protein_list):
     resolution_list = []
     has_missing_residues_list = []
     compound_list = []
+    b_factor_avg = []
+    b_factor_med = []
+    b_factor_max = []
+    b_factor_gt50 = []
 
     for filename in pdb_files:
         # grab filename contained extension from path
@@ -104,6 +108,16 @@ def extraction_residues_headers(directory, protein_list):
         df_res = pd.DataFrame(data=res_list, columns=[structure_id])
         res_data = pd.concat([res_data, df_res], axis=1)
 
+        # Get b factor
+        atoms = data.get_atoms()
+        b_factor = []
+        for atom in atoms:
+            b_factor.append(atom.get_bfactor())
+        b_factor_avg.append(np.average(b_factor))
+        b_factor_med.append(np.median(b_factor))
+        b_factor_max.append(np.max(b_factor))
+        b_factor_gt50.append(sum(i > 50 for i in b_factor))
+
         # get headers
         name_list.append(data.header["name"])
         head_list.append(data.header["head"])
@@ -111,6 +125,11 @@ def extraction_residues_headers(directory, protein_list):
         resolution_list.append(data.header["resolution"])
         has_missing_residues_list.append(data.header["has_missing_residues"])
         compound_list.append(data.header["compound"])
+
+    df_bfactor1 = pd.DataFrame(b_factor_avg, columns=['b_factor_avg'])
+    df_bfactor2 = pd.DataFrame(b_factor_med, columns=['b_factor_med'])
+    df_bfactor3 = pd.DataFrame(b_factor_max, columns=['b_factor_max'])
+    df_bfactor4 = pd.DataFrame(b_factor_gt50, columns=['b_factor_gt50'])
 
     # combine headers to one dataframe
     data_protein = pd.DataFrame(data=protein_list, columns=["protein"])
@@ -125,7 +144,8 @@ def extraction_residues_headers(directory, protein_list):
 
     headers = pd.concat([data_protein, data_name, data_head,
                          data_structure_method, data_resolution,
-                         data_has_missing_residues], axis=1)
+                         data_has_missing_residues, df_bfactor1,
+                         df_bfactor2, df_bfactor3, df_bfactor4], axis=1)
 
     return [res_data, headers]
 
