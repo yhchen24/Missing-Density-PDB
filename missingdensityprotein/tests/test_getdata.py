@@ -1,4 +1,4 @@
-import getdata
+import datashare.getdata
 
 
 def test_getSamples():
