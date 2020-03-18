@@ -48,7 +48,7 @@ directory = 'small_data/'
 # classify the protein of interest
 protein_of_interest = 5 (number in the filename list)
 
-pdb.pdb_autofill(directory, protein_list, protein_of_interest
+pdb.pdb_autofill(directory, protein_list, protein_of_interest)
 ```
 
 
