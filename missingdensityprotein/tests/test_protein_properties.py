@@ -7,7 +7,7 @@ protein_properties module.
 import numpy as np
 import pandas as pd
 
-import protein_properties
+import dataprocess.protein_properties as protein_properties
 
 
 def test_electrically_charged_residues():
