@@ -1,0 +1,1001 @@
+Protein,name,head,structure_method,resolution,has_missing_residues
+2y39, ni-bound form of cupriavidus metallidurans ch34 cnrxs,metal binding protein,x-ray diffraction,1.41,True
+2o73, structure of ohcu decarboxylase in complex with allantoin,lyase,x-ray diffraction,1.8,True
+3d5m, crystal structure of hcv ns5b polymerase with a novel pyridazinone inhibitor,transferase,x-ray diffraction,2.2,True
+1gey, crystal structure of histidinol-phosphate aminotransferase complexed with n-(5'-phosphopyridoxyl)-l-glutamate,transferase,x-ray diffraction,2.3,True
+4y79, factor xa complex with gtc000406,hydrolase,x-ray diffraction,2.1,True
+3gem, crystal structure of short-chain dehydrogenase from pseudomonas syringae,oxidoreductase,x-ray diffraction,1.83,True
+2z91, crystal structure of the fab fragment of anti-ciguatoxin antibody 10c9,immune system,x-ray diffraction,2.6,True
+2jfk, structure of the mat domain of human fas with malonyl-coa,transferase,x-ray diffraction,2.4,True
+3ueo, crystal structure of topbp1 brct4/5 domains in complex with a phospho- peptide,peptide binding protein,x-ray diffraction,2.6,True
+3qun, crystal structure of fosfomycin resistance kinase foma from streptomyces wedmorensis complexed with mgatp,transferase,x-ray diffraction,1.87,True
+1occ, structure of bovine heart cytochrome c oxidase at the fully oxidized state,oxidoreductase (cytochrome(c)-oxygen),x-ray diffraction,2.8,True
+2fgt, crystal structure of yych from bacillus subtilis,signaling protein,x-ray diffraction,2.3,True
+4wso, x-ray crystal structure of a nicotinate nucleotide adenylyltransferase from burkholderia thailandensis bound to nad,transferase,x-ray diffraction,2.05,True
+5d1s, anthrax toxin lethal factor with hydroxamic acid inhibitor,hydrolase/hydrolase inhibitor,x-ray diffraction,2.1,True
+5cuf, x-ray crystal structure of semet human sestrin2,oxidoreductase,x-ray diffraction,3.5,True
+5aeh, crystal structure of human tankyrase 2 in complex with od332,transferase,x-ray diffraction,1.85,True
+2qa8, crystal structure of the estrogen receptor alpha ligand binding domain mutant 537s complexed with genistein,transcription,x-ray diffraction,1.85,True
+4wng, crystal structure of the tpr domain of lgn in complex with frmpd4/preso1 at 2.1 angstrom resolution,signaling protein/protein binding,x-ray diffraction,2.11,True
+5gk4," native structure of fructose 1,6-bisphosphate aldolase from escherichia coli at 2.0 angstrom resolution",lyase,x-ray diffraction,2.0,True
+5bu9, crystal structure of beta-n-acetylhexosaminidase from beutenbergia cavernae dsm 12333,hydrolase,x-ray diffraction,2.26,True
+2w2m, wt pcsk9-deltac bound to wt egf-a of ldlr,hydrolase/receptor,x-ray diffraction,2.4,True
+5g64, the complex between human ige-fc and two anti-ige fab fragments,immune system,x-ray diffraction,3.72,True
+1wdj, crystal structure of tt1808 from thermus thermophilus hb8,"structural genomics, unknown function",x-ray diffraction,2.0,True
+1o9d, structural view of a fungal toxin acting on a 14-3-3 regulatory complex,protein-binding,x-ray diffraction,2.3,True
+2yee, hsp90 inhibitors and drugs from fragment and virtual screening,chaperone,x-ray diffraction,2.3,True
+2xdu, structure of hsp90 with small molecule inhibitor bound,chaperone,x-ray diffraction,1.74,True
+5f5u, crystal structure of the snu23-prp38-mfap1(217-258) complex of chaetomium thermophilum,splicing,x-ray diffraction,2.75,True
+1loe, x-ray crystal structure determination and refinement at 1.9 angstroms resolution of isolectin i from the seeds of lathyrus ochrus,lectin,x-ray diffraction,1.9,True
+4hqj," crystal structure of na+,k+-atpase in the na+-bound state",hydrolase/transport protein,x-ray diffraction,4.3,True
+1ji7, crystal structure of tel sam polymer,transcription,x-ray diffraction,1.45,True
+2y27, crystal structure of paak1 in complex with atp from burkholderia cenocepacia,ligase,x-ray diffraction,1.6,True
+2fhb, crystal structure analysis of klebsiella pneumoniae pullulanase complexed with maltose,hydrolase,x-ray diffraction,1.8,True
+4d6n, the crystal structure of i-dmoi in complex with its target dna at 10 days incubation in 5mm mg (state 7),hydrolase/dna,x-ray diffraction,2.35,True
+6mkf, crystal structure of penicillin binding protein 5 (pbp5) from enterococcus faecium in the imipenem-bound form,protein binding/antibiotic,x-ray diffraction,2.8,True
+1rbz," human gar tfase complex structure with polyglutamated 10- (trifluoroacetyl)-5,10-dideazaacyclic-5,6,7,8- tetrahydrofolic acid",transferase,x-ray diffraction,2.1,True
+1nd3," the structure of hrv16, when complexed with pleconaril, an antiviral compound",virus,x-ray diffraction,2.8,True
+3sr0, crystal structure of the phosphoryl transfer transition state mimic in the adenylate kinase: adp/alf4/amp in the active site,transferase,x-ray diffraction,1.56,True
+2fep, structure of truncated ccpa in complex with p-ser-hpr and sulfate ions,transcription,x-ray diffraction,2.45,True
+3ohu," crystal structure of the human bach2 poz domain, form i",transcription,x-ray diffraction,2.1,True
+6j2o, ctx-m-64 clavulanic acid complex,hydrolase/inhibitor,x-ray diffraction,1.9,True
+2br6, crystal structure of quorum-quenching n-acyl homoserine lactone lactonase,hydrolase,x-ray diffraction,1.7,True
+2jai, ddah1 complexed with citrulline,hydrolase,x-ray diffraction,2.3,True
+6dx3, crystal structure of the viral otu domain protease from taggert virus,"hydrolase, protein binding",x-ray diffraction,2.05,True
+6alj," aldh1a2 liganded with nad and compound win18,446",oxidoreductase/oxidoreductase inhibitor,x-ray diffraction,1.89,True
+2oww, covalent intermediate in amylomaltase in complex with the acceptor analog 4-deoxyglucose,transferase,x-ray diffraction,2.2,True
+4olf," crystal structure of prolyl-trna synthetase (prors, proline--trna ligase)from plasmodium falciparum in complex with halofuginone and amppnp",ligase,x-ray diffraction,2.9,True
+2uxd, crystal structure of an extended trna anticodon stem loop in complex with its cognate mrna cggg in the context of the thermus thermophilus 30s subunit.,ribosome,x-ray diffraction,3.2,True
+3u9t," crystal structure of p. aeruginosa 3-methylcrotonyl-coa carboxylase (mcc) 750 kd holoenzyme, free enzyme",ligase,x-ray diffraction,2.9,True
+3ont," the crystal structure of spot14, a modulator of lipogenesis",unknown function,x-ray diffraction,2.65,True
+5a7g, comparison of the structure and activity of glycosylated and aglycosylated human carboxylesterase 1,hydrolase,x-ray diffraction,1.48,True
+6a1t, charcot-leyden crystal protein/galectin-10 variant e33a with lactose,protein binding,x-ray diffraction,1.97,True
+1ups, glcnac[alpha]1-4gal releasing endo-[beta]-galactosidase from clostridium perfringens,glycosyl hydrolase,x-ray diffraction,1.82,True
+2b5e, crystal structure of yeast protein disulfide isomerase,isomerase,x-ray diffraction,2.4,True
+3gjt, caspase-3 binds diverse p4 residues in peptides,apoptosis,x-ray diffraction,2.2,True
+4uoz," beta-(1,6)-galactosidase from bifidobacterium animalis subsp. lactis bl-04 nucleophile mutant e324a in complex with galactose",hydrolase,x-ray diffraction,2.3,True
+3iqj, crystal structure of human 14-3-3 sigma in complex with raf1 peptide (10mer),"protein binding, signaling protein",x-ray diffraction,1.15,True
+6o3k, crystal structure of the unbound fab fragment of the human hiv-1 neutralizing antibody pgzl1.h4k3,immune system,x-ray diffraction,1.45,True
+4kia," crystal structure of lmhde, heme-degrading enzyme, from listeria monocytogenes",oxidoreductase,x-ray diffraction,1.75,True
+4ude, an oligomerization domain confers pioneer properties to the leafy master floral regulator,transcription,x-ray diffraction,2.25,True
+3o4w, crystal structure of dimeric klhxk1 in crystal form iv,transferase,x-ray diffraction,1.61,True
+5yr9, crystal structure of cypovirus polyhedra r13a/e73c/y83c mutant,viral protein,x-ray diffraction,1.7,True
+5g4j, phospholyase a1rdf1 from arthrobacter in complex with phosphoethanolamine,lyase,x-ray diffraction,1.87,True
+1fsq, x-ray crystal structure of cobalt-bound f93s/f95l/w97m carbonic anhydrase (caii) variant,lyase,x-ray diffraction,2.0,True
+4ki6, ternary complex of rb69 mutant l415f with ribonucleotides at -1 and -2 position,transferase/dna,x-ray diffraction,2.55,True
+6mr3, crystal structure of the competence-damaged protein (cina) superfamily protein from streptococcus mutans,structural genomics,x-ray diffraction,2.05,True
+2cne, structural insights into the design of nonpeptidic isothiazolidinone- containing inhibitors of protein tyrosine phosphatase 1b,hydrolase,x-ray diffraction,1.8,True
+5xld, the structure of hemagglutinin q226l-g228s mutant from an avian-origin h4n6 influenza virus in complex with human receptor analog lstc,viral protein,x-ray diffraction,2.3,True
+1ay5, aromatic amino acid aminotransferase complex with maleate,transferase,x-ray diffraction,2.5,True
+2j1k, cav-2 fibre head in complex with car d1,virus/receptor,x-ray diffraction,2.3,True
+6gkq, x-ray structure determined from ex vivo charcot-leyden crystal,sugar binding protein,x-ray diffraction,2.3,True
+2p38, crystal structure of pyrococcus abyssi protein homologue of saccharomyces cerevisiae nip7p,biosynthetic protein,x-ray diffraction,1.8,True
+5cm6," crystal structure of a trap periplasmic solute binding protein from pseudoalteromonas atlantica t6c(patl_2292, target efi-510180) with bound sodium and pyruvate",transport protein,x-ray diffraction,1.83,True
+3um2, crystal structure of the brox bro1 domain in complex with the c- terminal tail of chmp5,membrane protein/transport protein,x-ray diffraction,2.59,True
+6qbn," structure of the core domaine of knr4, an intrinsically disordered protein from saccharomyces cerevisiae - mutant s200d",signaling protein,x-ray diffraction,2.4,True
+4ai5, crystal structure of y16f of 3-methyladenine dna glycosylase i (tag) in complex with 3-methyladenine,hydrolase,x-ray diffraction,2.22,True
+4rmj, human sirt2 in complex with adp ribose and nicotinamide,hydrolase/hydrolase inhibitor,x-ray diffraction,1.87,True
+4r1t, crystal structure of petunia hydrida cinnamoyl-coa reductase,oxidoreductase,x-ray diffraction,1.7,True
+2gtg, crystal structure of human saposin c,lipid binding protein,x-ray diffraction,2.4,True
+3goe, molecular mimicry of sumo promotes dna repair,"recombination, replication",x-ray diffraction,0.97,True
+5n8v, targeting the pex14-pex5 interaction by small molecules provides novel therapeutic routes to treat trypanosomiases.,signaling protein,x-ray diffraction,1.55,True
+4law," crystal structure analysis of fkbp52, crystal form iii",isomerase,x-ray diffraction,2.4,True
+6gdf, dihydroorotase from aquifex aeolicus under 600 bar of hydrostatic pressure,hydrolase,x-ray diffraction,2.5,True
+3f1z, crystal structure of putative nucleic acid-binding lipoprotein (yp_001337197.1) from klebsiella pneumoniae subsp. pneumoniae mgh 78578 at 2.46 a resolution,dna binding protein,x-ray diffraction,2.46,True
+5cv3, c. remanei pgl-1 dimerization domain - hg,hydrolase,x-ray diffraction,3.17,True
+3f8t, crystal structure analysis of a full-length mcm homolog from methanopyrus kandleri,hydrolase,x-ray diffraction,1.9,True
+1ko0," crystal structure of a d,l-lysine complex of diaminopimelate decarboxylase",lyase,x-ray diffraction,2.2,True
+2qp6, the crystal structure of the complex of hcaii with a bioreductive antitumor derivative,lyase,x-ray diffraction,1.45,True
+1z2m," crystal structure of isg15, the interferon-induced ubiquitin cross reactive protein",signaling protein,x-ray diffraction,2.5,True
+5otr, the crystal structure of ck2alpha in complex with compound 14,transferase,x-ray diffraction,1.52,True
+1uec, crystal structure of autoinhibited form of tandem sh3 domain of p47phox,signaling protein,x-ray diffraction,1.82,True
+2rs5, structural analysis of antiviral agents that interact with the capsid of human rhinoviruses,virus,x-ray diffraction,3.0,True
+3q86, crystal structure of staphylococcus aureus nucleoside diphosphate kinase complexed with gtp,transferase,x-ray diffraction,2.38,True
+3nx3, crystal structure of acetylornithine aminotransferase (argd) from campylobacter jejuni,transferase,x-ray diffraction,1.8,True
+1syr, initial structural analysis of plasmodium falciparum thioredoxin,"structural genomics, unknown function",x-ray diffraction,2.95,True
+6ohs, structure of compound 3 (ml299) bound human phospholipase d2 catalytic domain,hydrolase/hydrolase inhibitor,x-ray diffraction,3.2,True
+3d7d," a high resolution crystal structure of human glutamate carboxypeptidase ii (gcpii) in a complex with dcfbd, a urea-based inhibitor",hydrolase,x-ray diffraction,1.69,True
+3vlf, crystal structure of yeast proteasome interacting protein,chaperone/protein binding,x-ray diffraction,3.8,True
+6atl, exploring cystine dense peptide space to open a unique molecular toolbox,toxin,x-ray diffraction,1.8,True
+1x1b, crystal structure of bchu complexed with s-adenosyl-l-homocysteine,transferase,x-ray diffraction,2.6,True
+5cf4," crystal structure of janus kinase 2 in complex with n,n-dicyclopropyl- 10-ethyl-7-[(3-methoxypropyl)amino] -3-methyl-3,5,8,10- tetraazatricyclo[7.3.0.0,6] dodeca-1(9),2(6),4,7,11-pentaene-11- carboxamide",transferase/transferase inhibitor,x-ray diffraction,2.38,True
+4o3w, crystal structure of the vaccine antigen transferrin binding protein b (tbpb) mutant tyr-63-ala from actinobacillus suis h57,metal transport,x-ray diffraction,2.1,True
+6mdx, mechanism of protease dependent dpc repair,dna binding protein/dna,x-ray diffraction,1.55,True
+2wmy, crystal structure of the tyrosine phosphatase wzb from escherichia coli k30 in complex with sulphate.,hydrolase,x-ray diffraction,2.21,True
+2ocv, structural basis of na+ activation mimicry in murine thrombin,hydrolase,x-ray diffraction,2.2,True
+2o8o, crystal structure of clostridium histolyticum colg collagenase collagen-binding domain 3b at 1.35 angstrom resolution in presence of calcium,hydrolase,x-ray diffraction,1.35,True
+4ypr, crystal structure of d144n muty bound to its anti-substrate,hydrolase/dna,x-ray diffraction,2.59,True
+5l64, yeast 20s proteasome with human beta5c (1-138) and human beta6 (97- 111; 118-133) in complex with epoxyketone inhibitor 18,hydrolase/hydrolase inhibitor,x-ray diffraction,2.7,True
+2ozn, the cohesin-dockerin complex of nagj and nagh from clostridium perfringens,toxin,x-ray diffraction,1.6,True
+5k9d, crystal structure of human dihydroorotate dehydrogenase at 1.7 a resolution,oxidoreductase,x-ray diffraction,1.7,True
+4y5j, drosophila melanogaster mini spindles tog3,protein binding,x-ray diffraction,2.3,True
+4f9u, structure of glycosylated glutaminyl cyclase from drosophila melanogaster,"transferase, hydrolase",x-ray diffraction,1.8,True
+4l4q, methionine adenosyltransferase,transferase,x-ray diffraction,2.0,True
+1nq9, crystal structure of antithrombin in the pentasaccharide-bound intermediate state,blood clotting,x-ray diffraction,2.6,True
+1n8s, structure of the pancreatic lipase-colipase complex,hydrolase,x-ray diffraction,3.04,True
+3wbd, crystal structure of anti-polysialic acid antibody single chain fv fragment (mab735) complexed with octasialic acid,immune system,x-ray diffraction,1.8,True
+4dc6, crystal structure of thaumatin exposed to excessive sonicc imaging laser dose.,plant protein,x-ray diffraction,1.48,True
+3zm2, catalytic domain of human shp2,hydrolase,x-ray diffraction,1.5,True
+4z4j, crystal structure of cellobiose 2-epimerase from caldicellulosiruptor saccharolyticus dsm 8903,isomerase,x-ray diffraction,1.54,True
+2dx1, crystal structure of rhogef protein asef,signaling protein,x-ray diffraction,2.36,True
+2jfm, crystal structure of human ste20-like kinase (unliganded form),transferase,x-ray diffraction,2.85,True
+1zny, crystal structure of mycobacterium tuberculosis guanylate kinase in complex with gdp,transferase,x-ray diffraction,2.3,True
+3lua, crystal structure of a signal receiver domain of two component signal transduction (histidine kinase) from clostridium thermocellum,transcription regulator,x-ray diffraction,2.4,True
+5ktm, crystal structure of pyrococcus horikoshii quinolinate synthase (nada) with a bound fe4s4 cluster,transferase,x-ray diffraction,1.44,True
+6nqm, crystal structure of human lsd1,oxidoreductase,x-ray diffraction,2.9,True
+1iat, crystal structure of human phosphoglucose isomerase/neuroleukin/autocrine motility factor/maturation factor,isomerase,x-ray diffraction,1.62,True
+3r83, cdk2 in complex with inhibitor kvr-2-92,transferase/transferase inhibitor,x-ray diffraction,1.75,True
+2xsf, crystal structure of the rrm domain of mouse deleted in azoospermia-like,rna binding protein,x-ray diffraction,1.7,True
+3g8t, crystal structure of the g33a mutant bacillus anthracis glms ribozyme bound to glcn6p,rna binding protein/rna,x-ray diffraction,3.0,True
+2f4i, crystal structure of an ob-fold protein (tm0957) from thermotoga maritima msb8 at 1.90 a resolution,unknown function,x-ray diffraction,2.25,True
+3mpt, crystal structure of p38 kinase in complex with a pyrrole-2- carboxamide inhibitor,transferase/transferase inhibitor,x-ray diffraction,1.89,True
+2bkp, structure analysis of unknown function protein,hypothetical protein,x-ray diffraction,2.2,True
+3ihf, crystal structure of mouse bcl-xl mutant (r139a) at ph 5.0,apoptosis,x-ray diffraction,2.28,True
+4dej, crystal structure of glutathione transferase-like protein il0419 (target efi-501089) from idiomarina loihiensis l2tr,transferase,x-ray diffraction,2.9,True
+2w09, cyp51 of m. tuberculosis bound to an inhibitor cis-4-methyl-n-[(1s)-3- (methylsulfanyl)-1-(pyridin-4-ylcarbamoyl) propyl]cyclohexanecarboxamide,oxidoreductase,x-ray diffraction,1.57,True
+4x4u, crystal structure of the a.fulgidus cca-adding enzyme in complex with a human menbeta minihelix ending in ccacc,rna binding protein,x-ray diffraction,2.7,True
+9xia, x-ray analysis of d-xylose isomerase at 1.9 angstroms: native enzyme in complex with substrate and with a mechanism-designed inactivator,isomerase(intramolecular oxidoreductase)11-oct-90   9xia,x-ray diffraction,1.9,True
+5q6a, pandda analysis group deposition -- crystal structure of dclre1a after initial refinement with no ligand modelled (structure 147),hydrolase,x-ray diffraction,1.71,True
+5eyb, x-ray structure of reb1-ter complex,dna binding protein/dna,x-ray diffraction,2.7,True
+4wit, tmem16 lipid scramblase in crystal form 2,lipid transport,x-ray diffraction,3.4,True
+3pnl, crystal structure of e.coli dha kinase dhak-dhal complex,transferase,x-ray diffraction,2.2,True
+3gl6, crystal structure of jarid1a-phd3 complexed with h3(1-9) k4me3 peptide,oxidoreductase,x-ray diffraction,1.9,True
+4rnd, crystal structure of the subunit df-assembly of the eukaryotic v- atpase.,hydrolase,x-ray diffraction,3.18,True
+6hh2, rab29 small gtpase bound to gdp,signaling protein,x-ray diffraction,1.45,True
+4j0v," crystal structure of bace-1 in complex with 5-cyano-pyridine-2- carboxylic acid [3-((4r,5r)-2-amino-5-fluoro-4-methyl-5,6-dihydro-4h- [1,3]oxazin-4-yl)-4-fluoro-phenyl]-amide",hydrolase/hydrolase inhibitor,x-ray diffraction,1.94,True
+4h4f, crystal structure of human chymotrypsin c (ctrc) bound to inhibitor eglin c from hirudo medicinalis,hydrolase/hydrolase inhibitor,x-ray diffraction,1.9,True
+3vmg," reduced carbazole-bound complex between oxygenase and ferredoxin in carbazole 1,9a-dioxygenase",oxidoreductase,x-ray diffraction,1.95,True
+1brn, subsite binding in an rnase: structure of a barnase-tetranucleotide complex at 1.76 angstroms resolution,hydrolase/dna,x-ray diffraction,1.76,True
+2d7t, crystal structure of human anti polyhydroxybutyrate antibody fv,immune system,x-ray diffraction,1.7,True
+1pys, phenylalanyl-trna synthetase from thermus thermophilus,aminoacyl-trna synthetase,x-ray diffraction,2.9,True
+4b5c, crystal structure of the peptidoglycan-associated lipoprotein from burkholderia pseudomallei,lipid transport,x-ray diffraction,2.3,True
+2aix, x-ray structure of the glur2 ligand-binding core (s1s2j) in complex with (s)-thio-atpa at 2.2 a resolution.,membrane protein,x-ray diffraction,2.17,True
+6cqc, rnase p protein from thermotoga maritima in complex with 1-(4- fluorophenyl)-2-thiourea,rna binding protein,x-ray diffraction,1.54,True
+1a3b, complex of human alpha-thrombin with the bifunctional boronate inhibitor borolog1,hydrolase/hydrolase inhibitor,x-ray diffraction,1.8,True
+4wxz, pdxs (g. stearothermophilus) co-crystallized with r5p,transferase,x-ray diffraction,2.7,True
+5yyl, structure of major royal jelly protein 1 oligomer,signaling protein,x-ray diffraction,2.65,True
+4d2b, structure of a ligand free pot family peptide transporter,transport protein,x-ray diffraction,2.35,True
+5nw1," pvhl:elob:eloc in complex with (2s,4r)-1-((s)-2- (cyclobutanecarboxamido)-3,3-dimethylbutanoyl)-4-hydroxy-n-(4-(4- methylthiazol-5-yl)benzyl)pyrrolidine-2-carboxamide (ligand 18)",ligase,x-ray diffraction,2.1,True
+4zu5," crystal structure of the qdta 3,4-ketoisomerase from thermoanaerobacterium thermosaccharolyticum, apo form",isomerase,x-ray diffraction,1.8,True
+5aux, crystal structure of dapk1 in complex with kaempferol.,transferase,x-ray diffraction,1.5,True
+6gfl, crystal structure of the escherichia coli nucleosidase ppnn (apo form),hydrolase,x-ray diffraction,2.48,True
+2yi1, crystal structure of n-acetylmannosamine kinase in complex with n-acetyl mannosamine 6-phosphate and adp.,transferase,x-ray diffraction,2.15,True
+5i7r," mycobacterium tuberculosis cysm in complex with the urea-scaffold inhibitor 2 [3-(3-([1,1'-biphenyl]-3-yl)ureido)benzoic acid]",lyase,x-ray diffraction,1.73,True
+3l46, crystal structure of the second brct domain of epithelial cell transforming 2 (ect2),signaling protein,x-ray diffraction,1.48,True
+4x15, jc mad-1 polyomavirus vp1 in complex with gm2 oligosaccharide,viral protein,x-ray diffraction,2.11,True
+3ics, crystal structure of partially reduced bacillus anthracis coadr-rhd,oxidoreductase,x-ray diffraction,1.94,True
+3vec, rhodococcus jostii rha1 dypb d153a variant in complex with heme,oxidoreductase,x-ray diffraction,2.6,True
+2grc," 1.5 a structure of bromodomain from human brg1 protein, a central atpase of swi/snf remodeling complex",hydrolase,x-ray diffraction,1.5,True
+3g0q, crystal structure of muty bound to its inhibitor dna,hydrolase/dna,x-ray diffraction,2.2,True
+5ii9, monoclinic crystal structure of red abalone lysin at 2.11 a resolution,cell adhesion,x-ray diffraction,2.11,True
+3stg," crystal structure of a58p, del(n59), and loop 7 truncated mutant of 3- deoxy-d-manno-octulosonate 8-phosphate synthase (kdo8ps) from neisseria meningitidis",transferase,x-ray diffraction,2.2,True
+3fal, humanrxr alpha & mouse lxr alpha complexed with retenoic acid and gsk2186,signaling protein,x-ray diffraction,2.36,True
+3g3x, crystal structure of spin labeled t4 lysozyme (t151r1) at 100 k,hydrolase,x-ray diffraction,1.8,True
+1uog, deacetoxycephalosporin c synthase complexed with deacetoxycephalosporin c,oxidoreductase,x-ray diffraction,1.7,True
+1mmw, rat neuronal nos heme domain with vinyl-l-nio bound,oxidoreductase,x-ray diffraction,2.0,True
+3hnm," crystal structure of protein bt_411 (putative chitobiase, fragment 298-461) from bacteroides thetaiotaomicron, northeast structural genomics consortium target btr319d","structural genomics, unknown function",x-ray diffraction,3.0,True
+1if1, interferon regulatory factor 1 (irf-1) complex with dna,transcription/dna,x-ray diffraction,3.0,True
+3tmd," bd1817, a hdg""y""p protein from bdellovibrio bacteriovorus","hydrolase,signaling protein",x-ray diffraction,2.64,True
+4oll, camp-binding acyltransferase from mycobacterium smegmatis,transferase,x-ray diffraction,1.9,True
+4ksa," crystal structure of malonyl-coa decarboxylase from rhodopseudomonas palustris, northeast structural genomics consortium target rpr127",lyase,x-ray diffraction,2.7,True
+4nem, small molecular fragment bound to crystal contact interface of interleukin-2,immune system,x-ray diffraction,1.93,True
+1gu0, crystal structure of type ii dehydroquinase from streptomyces coelicolor,lyase,x-ray diffraction,2.0,True
+3q27, cyrstal structure of human alpha-synuclein (32-57) fused to maltose binding protein (mbp),"sugar binding protein, protein fibril",x-ray diffraction,1.3,True
+1urz," low ph induced, membrane fusion conformation of the envelope protein of tick-borne encephalitis virus",virus/viral protein,x-ray diffraction,2.7,True
+6bhf," crystal structure of the petidylprolyl cis,trans-isomerase from helicobacter pylori",isomerase,x-ray diffraction,2.09,True
+2fy4, structures of ligand bound human choline acetyltransferase provide insight into regulation of acetylcholine synthesis,transferase,x-ray diffraction,2.3,True
+1o6l, crystal structure of an activated akt/protein kinase b (pkb-pif chimera) ternary complex with amp-pnp and gsk3 peptide,transferase,x-ray diffraction,1.6,True
+3zs8, s. cerevisiae get3 complexed with a cytosolic get1 fragment,hydrolase/transport protein,x-ray diffraction,3.0,True
+2nnn, crystal structure of probable transcriptional regulator from pseudomonas aeruginosa,transcription,x-ray diffraction,2.4,True
+5qjz, pandda analysis group deposition of models with modelled events (e.g. bound ligands) -- crystal structure of nudt5 in complex with z1696822287,hydrolase,x-ray diffraction,1.52,True
+2xcx, crystal structure of the apoform of the d52n variant of cytosolic 5'- nucleotidase ii,hydrolase,x-ray diffraction,2.3,True
+4rec, a nuclease-dna complex form 3,hydrolase/dna,x-ray diffraction,2.2,True
+3va9, crystal structure of the rhodopseudomonas palustris histidine kinase hk9 sensor domain,transferase,x-ray diffraction,2.3,True
+2f2k, aldose reductase tertiary complex with nadph and deg,oxidoreductase,x-ray diffraction,1.94,True
+3pha, the crystal structure of the w169y mutant of alpha-glucosidase (gh31 family) from ruminococcus obeum atcc 29174 in complex with acarbose,hydrolase/hydrolase inhibitor,x-ray diffraction,2.17,True
+1lla, crystal structure of deoxygenated limulus polyphemus subunit ii hemocyanin at 2.18 angstroms resolution: clues for a mechanism for allosteric regulation,oxygen transport,x-ray diffraction,2.18,True
+1jpz, crystal structure of a complex of the heme domain of p450bm- 3 with n-palmitoylglycine,oxidoreductase,x-ray diffraction,1.65,True
+1o6b, crystal structure of phosphopantetheine adenylyltransferase with adp,transferase,x-ray diffraction,2.2,True
+3sue, crystal structure of ns3/4a protease variant r155k in complex with mk- 5172,hydrolase/inhibitor,x-ray diffraction,2.2,True
+3rny, crystal structure of human rsk1 c-terminal kinase domain,transferase,x-ray diffraction,2.7,True
+5duu, crystal structure of the human galectin-4 n-terminal carbohydrate recognition domain in complex with glycerol,sugar binding protein,x-ray diffraction,2.0,True
+4jka, open and closed forms of r1865a human prp8 rnase h-like domain with bound co ion,rna binding protein,x-ray diffraction,1.32,True
+5v7f, t4 lysozyme y18ymi,hydrolase,x-ray diffraction,1.65,True
+4qdi, crystal structure ii of murf from acinetobacter baumannii,ligase,x-ray diffraction,1.8,True
+5frz," crystal structure of the phenol-responsive sensory domain of the transcription activator poxr with 3,4-dimethylphenol",transcription,x-ray diffraction,2.1,True
+1uyi," human hsp90-alpha with 8-(2,5-dimethoxy-benzyl)-2-fluoro-9-pent-9h- purin-6-ylamine",chaperone,x-ray diffraction,2.2,True
+2z6p," crystal structure of the ufc1, ufm1 conjugating enzyme 1",ligase,x-ray diffraction,1.8,True
+4fm2," pyrococcus abyssi b family dna polymerase (triple mutant) bound to a dsdna, in edition mode",transferase/dna,x-ray diffraction,2.9,True
+6a0e, crystal structure of human protein n-terminal asparagine amidohydrolase (ntan1),hydrolase,x-ray diffraction,1.95,True
+4dyj, crystal structure of a broad specificity amino acid racemase (bar) within internal aldimine linkage,isomerase,x-ray diffraction,2.45,True
+4nz8, crystal structure of porcine aminopeptidase-n complexed with cleaved poly-alanine,hydrolase,x-ray diffraction,2.0,True
+2cy0, crystal structure of shikimate 5-dehydrogenase (aroe) from thermus thermophilus hb8 in complex with nadp,oxidoreductase,x-ray diffraction,1.9,True
+1gmh," refined crystal structure of ""aged"" and ""non-aged"" organophosphoryl conjugates of gamma-chymotrypsin",hydrolase(serine proteinase),x-ray diffraction,2.1,True
+1llw, structural studies on the synchronization of catalytic centers in glutamate synthase: complex with 2-oxoglutarate,oxidoreductase,x-ray diffraction,2.7,True
+6ou1, crystal structure of the computationally-derived 21-variant of the myocilin olfactomedin domain,protein binding,x-ray diffraction,1.88,True
+4k26," 4,4-dioxo-5,6-dihydro-[1,4,3]oxathiazines, a novel class of 11 -hsd1 inhibitors for the treatment of diabetes",oxidoreductase/oxidoreductase inhibitor,x-ray diffraction,2.21,True
+4uss," populus trichocarpa glutathione transferase x1-1 (ghr1), complexed with glutathione",transferase,x-ray diffraction,2.5,True
+5isr, crystal structure of staphylococcal nuclease variant delta+phs l38e at cryogenic temperature,hydrolase,x-ray diffraction,1.9,True
+1rhq, crystal structure of the complex of caspase-3 with a bromomethoxyphenyl inhibitor,hydrolase/hydrolase inhibitor,x-ray diffraction,3.0,True
+6cwp, x-ray crystal structure of flavobacterium johnsoniae dimanganese(ii) ribonucleotide reductase beta subunit (anaerobic),oxidoreductase,x-ray diffraction,1.92,True
+5e6h, a linked jumonji domain of the kdm5a lysine demethylase,oxidoreductase,x-ray diffraction,2.24,True
+4tzv," co-crystals of the ternary complex containing a t-box stem i rna, its cognate trnagly, and b. subtilis ybxf protein, treated by removing lithium sulfate post crystallization",ribosomal protein/rna,x-ray diffraction,5.03,True
+5vgt, x-ray structure of bacteriophage sf6 tail adaptor protein gp7,viral protein,x-ray diffraction,1.78,True
+2fb5, structural genomics; the crystal structure of the hypothetical membrane spanning protein from bacillus cereus,membrane protein,x-ray diffraction,1.99,True
+3rsq," crystal structure of tm0922, a fusion of a domain of unknown function and adp/atp-dependent nad(p)h-hydrate dehydratase from thermotoga maritima soaked with nadh",lyase,x-ray diffraction,2.05,True
+5wv9, crystal structure of a insect group iii chitinase complex with (glcnac)6 (cad1-(glcnac)6 ) from ostrinia furnacalis,hydrolase,x-ray diffraction,2.11,True
+4pfs," crystal structure of cobyrinic acid a,c-diamide synthase from mycobacterium smegmatis",ligase,x-ray diffraction,2.3,True
+6kyc, structure of the s207a mutant of clostridium difficile sortase b,hydrolase,x-ray diffraction,2.6,True
+1jgw, photosynthetic reaction center mutant with thr m 21 replaced with leu,photosynthesis,x-ray diffraction,2.8,True
+5dv0, structure of s. pneumoniae d39 sortase a,hydrolase,x-ray diffraction,3.3,True
+3g4f, crystal structure of (+)- -cadinene synthase from gossypium arboreum in complex with 2-fluorofarnesyl diphosphate,lyase,x-ray diffraction,2.65,True
+2f2u, crystal structure of the rho-kinase kinase domain,transferase,x-ray diffraction,2.4,True
+4qol, structure of bacillus pumilus catalase,oxidoreductase,x-ray diffraction,1.65,True
+4c7f, structure and activity of the gh20 beta-n- acetylhexosaminidase from streptomyces coelicolor a3(2),hydrolase,x-ray diffraction,2.0,True
+6iut, crystal structure of influenza a virus h5 hemagglutinin globular head in complex with the fab of antibody avfluigg01,immune system,x-ray diffraction,2.3,True
+4g6i, crystallographic structure of trimeric riboflavin synthase from brucella abortus in complex with roseoflavin,transferase,x-ray diffraction,1.78,True
+5kda, crystal structure of the aromatic prenyltransferase atapt from aspergillus terreus a8-4 in complex with dimethylallyl s- thiolodiphosphate and genistein,transferase,x-ray diffraction,2.0,True
+4ej0, crystal structure of adp-l-glycero-d-manno-heptose-6-epimerase from burkholderia thailandensis,isomerase,x-ray diffraction,2.61,True
+5fxq, igfr-1r complex with a pyrimidine inhibitor.,transferase,x-ray diffraction,2.3,True
+4foe, crystal structure of recombinant human hexokinase type i with mannose 6-phosphate,transferase,x-ray diffraction,2.7,True
+4r6i," atxa protein, a virulence regulator from bacillus anthracis.",transcription,x-ray diffraction,2.65,True
+5yxa, crystal structure of the c-terminal fragment of ns1 protein from yellow fever virus,viral protein,x-ray diffraction,2.1,True
+3vyb, crystal structure of methyl cpg binding domain of mbd4 in complex with the 5mcg/hmcg sequence,hydrolase/dna,x-ray diffraction,2.4,True
+2yjq, structure of a paenibacillus polymyxa xyloglucanase from glycoside hydrolase family 44,hydrolase,x-ray diffraction,2.25,True
+1dkw, crystal structure of triose-phosphate isomerase with modified substrate binding site,isomerase,x-ray diffraction,2.65,True
+3djw, the thermo- and acido-stable orf-99 from the archaeal virus afv1,"viral protein, unknown function",x-ray diffraction,3.1,True
+2qq2, crystal structure of c-terminal domain of human acyl-coa thioesterase 7,hydrolase,x-ray diffraction,2.8,True
+4e0j, protelomerase tela r255a mutant complexed with dna hairpin product,dna binding protein/dna,x-ray diffraction,2.3,True
+5ud4," class ii fructose-1,6-bisphosphate aldolase h180q variant of helicobacter pylori with tbp",lyase,x-ray diffraction,1.5,True
+4xg2, crystal structure of ligand-free syk,transferase,x-ray diffraction,2.21,True
+3rmj, crystal structure of truncated alpha-isopropylmalate synthase from neisseria meningitidis,transferase,x-ray diffraction,1.95,True
+3oa7," structure of the c-terminal domain of cnm67, a core component of the spindle pole body of saccharomyces cerevisiae",structural protein,x-ray diffraction,2.3,True
+3g1f," crystal structure of orotidine 5'-monophosphate decarboxylase from methanobacterium thermoautotrophicum complexed with 5,6-dihydroorotidine 5'-monophosphate",lyase,x-ray diffraction,2.5,True
+5ggt, pd-l1 in complex with bms-936559 fab,immune system,x-ray diffraction,2.8,True
+3wyc, structure of a meso-diaminopimelate dehydrogenase in complex with nadp,oxidoreductase,x-ray diffraction,2.07,True
+2bi8, udp-galactopyranose mutase from klebsiella pneumoniae with reduced fad,isomerase,x-ray diffraction,2.35,True
+6et7, activated heterodimer of the bacteriophytochrome regulated diguanylyl cyclase variant - s505v a526v - from idiomarina species a28l,transferase,x-ray diffraction,2.85,True
+3kc1, crystal structure of human liver fbpase in complex with tricyclic inhibitor 19a,hydrolase,x-ray diffraction,2.25,True
+1wnc, crystal structure of the sars-cov spike protein fusion core,viral protein,x-ray diffraction,2.8,True
+5eyw, crystal structure of litopenaeus vannamei triosephosphate isomerase complexed with 2-phosphoglycolic acid,isomerase,x-ray diffraction,1.7,True
+5fzp, structure of the dispase autolysis inducing protein from streptomyces mobaraensis,signaling protein,x-ray diffraction,1.7,True
+1b5p, thermus thermophilus aspartate aminotransferase double mutant 1,transferase,x-ray diffraction,1.8,True
+3sii, the x-ray crystal structure of poly(adp-ribose) glycohydrolase bound to the inhibitor adp-hpd from thermomonospora curvata,hydrolase/hydrolase inhibitor,x-ray diffraction,1.48,True
+1odj, purine nucleoside phosphorylase from thermus thermophilus,transferase,x-ray diffraction,2.4,True
+4y1x, complex of human galectin-1 and galbeta1-4(6oso3)glcnac,sugar binding protein,x-ray diffraction,2.45,True
+3lqx, srp ribonucleoprotein core complexed with cobalt hexammine,rna/rna binding protein,x-ray diffraction,1.93,True
+5ztf, structure of ca2+ atpase,hydrolase,x-ray diffraction,3.45,True
+4df9, crystal structure of a putative peptidase (bf3526) from bacteroides fragilis nctc 9343 at 2.17 a resolution,hydrolase,x-ray diffraction,2.17,True
+2eym, crystal structure of staphylococcal nuclease mutant t120c,hydrolase,x-ray diffraction,1.8,True
+5vag, crystal structure of h7-specific antibody m826 in complex with the ha1 domain of hemagglutinin from h7n9 influenza virus,immune system,x-ray diffraction,1.9,True
+6bsr, crystal structure of penicillin-binding protein 4 (pbp4) from enterococcus faecalis in the benzylpenicillin bound form.,hydrolase,x-ray diffraction,2.34,True
+5ipy, crystal structure of wt rntmm,flavoprotein,x-ray diffraction,1.5,True
+2z8n, structural basis for the catalytic mechanism of phosphothreonine lyase,lyase,x-ray diffraction,1.8,True
+4naw, crystal structure of human atg12~atg5-atg16n in complex with a fragment of atg3,protein transport/ligase,x-ray diffraction,2.2,True
+3t7k, complex structure of rtt107p and phosphorylated histone h2a,protein binding,x-ray diffraction,2.03,True
+6a6m, crystal structure of an outward-open nucleotide-bound state of the eukaryotic abc multidrug transporter cmabcb1,transport protein,x-ray diffraction,1.9,True
+5fgr, crystal structure of c-terminal domain of shaft pilin spaa from lactobacillus rhamnosus gg - p21212 space group with yb heavy atom,cell adhesion,x-ray diffraction,2.79,True
+3f9c, crystal structure of human plasma platelet activating factor acetylhydrolase covalently inhibited by diisopropylfluorophosphate,hydrolase,x-ray diffraction,2.3,True
+5gr0, crystal structure of branching enzyme d501a mutant from cyanothece sp. atcc 51142,transferase,x-ray diffraction,1.95,True
+5av4, crystal structure of dapk1-genistein complex in the presence of bromide ions.,transferase,x-ray diffraction,1.4,True
+5avq, kinetics by x-ray crystallography: tl+-substitution of bound k+ in the e2.mgf42-.2k+ crystal after 0.75 min.,hydrolase/transport protein,x-ray diffraction,2.6,True
+3klg, crystal structure of azt-resistant hiv-1 reverse transcriptase crosslinked to pre-translocation aztmp-terminated dna (complex n),transferase/dna,x-ray diffraction,3.65,True
+4h3h," crystal structure of a ternary complex of human symplekin ntd, human ssu72 and a rna poymerase ii ctd peptide phosphorylated at ser-7",hydrolase,x-ray diffraction,2.2,True
+5h7g, crystal structure of the bcl6 btb domain in complex with f1324,transcription/inhibitor,x-ray diffraction,1.85,True
+5n0u, crystal structure of opha-deltac6 mutant r72a in complex with sah,transferase,x-ray diffraction,1.68,True
+3p55," human carbonic anhydrase ii in complex with p-(4-ferrocenyl-1h-1,2,3- triazol-1-yl)benzenesulfonamide",lyase,x-ray diffraction,2.0,True
+1kq6, p47phox px domain,protein binding,x-ray diffraction,1.18,True
+1wno, crystal structure of a native chitinase from aspergillus fumigatus yj- 407,hydrolase,x-ray diffraction,2.1,True
+6bfl," caspase-3 mutant- d9a,d28a,t245d",apoptosis/inhibitor,x-ray diffraction,1.87,True
+1mz4, crystal structure of cytochrome c550 from thermosynechococcus elongatus,electron transport,x-ray diffraction,1.8,True
+3oyh, crystal structure of the prototype foamy virus (pfv) intasome in complex with magnesium and the insti mk0536,"recombination,viral protein/dna",x-ray diffraction,2.74,True
+6mnn, 6236 tcr bound to i-ab padi4,immune system,x-ray diffraction,2.83,True
+2aik, formylglycine generating enzyme c336s mutant covalently bound to substrate peptide lctpsra,"hydrolase activator,protein binding",x-ray diffraction,1.73,True
+5t20, crystal structure of tarin lectin bound to trimannose,sugar binding protein,x-ray diffraction,1.91,True
+2i2d, crystal structure of lmnadk1,transferase,x-ray diffraction,2.22,True
+3kar," the motor domain of kinesin-like protein kar3, a saccharomyces cerevisiae kinesin-related protein",contractile protein,x-ray diffraction,2.3,True
+2w9b," binary complex of dpo4 bound to n2,n2-dimethyl- deoxyguanosine modified dna",transferase/dna,x-ray diffraction,2.28,True
+3hbr, crystal structure of oxa-48 beta-lactamase,hydrolase,x-ray diffraction,1.9,True
+1cuf," cutinase, r156l mutant",hydrolase (serine esterase),x-ray diffraction,1.75,True
+6glr, crystal structure of hmth1 n33g in complex with th scaffold 1 in the presence of acetate,hydrolase,x-ray diffraction,1.6,True
+5t4k, plp and gaba trigger gabr-mediated transcription regulation in bacillus subsidies via external aldimine formation,transcription,x-ray diffraction,2.25,True
+4l3l, crystal structures of human p70s6k1 kinase domain (zinc anomalous),transferase,x-ray diffraction,2.1,True
+5hhd, crystal structure of chemically synthesized heterochiral {rfx037 plus vegf-a} protein complex in space group p21,de novo protein,x-ray diffraction,2.1,True
+3afi, crystal structure of dbja (his-dbja),hydrolase,x-ray diffraction,1.75,True
+1rzo, agglutinin from ricinus communis with galactoaza,hydrolase,x-ray diffraction,2.63,True
+3cvp, structure of peroxisomal targeting signal 1 (pts1) binding domain of trypanosoma brucei peroxin 5 (tbpex5)complexed to pts1 peptide (10- skl),transport protein,x-ray diffraction,2.0,True
+5ila, deg9 protease domain,hydrolase,x-ray diffraction,3.0,True
+6gae," bacteriorhodopsin, 560 fs state, real-space refined against 15% extrapolated structure factors",membrane protein,x-ray diffraction,1.8,True
+3s0c, transaldolase wt of thermoplasma acidophilum,transferase,x-ray diffraction,1.78,True
+5e5i, structure of the ornithine aminotransferase from toxoplasma gondii in complex with inactivator,transferase,x-ray diffraction,1.7,True
+5u84," acid ceramidase (asah1, acdase) from common minke whale, cys143ala, uncleaved",hydrolase,x-ray diffraction,2.34,True
+6lg2, vanr bound to vanillate,transcription,x-ray diffraction,1.6,True
+1hrh, crystal structure of the ribonuclease h domain of hiv-1 reverse transcriptase,hydrolase(endoribonuclease),x-ray diffraction,2.4,True
+2fjd, adenosine-5-phosphosulfate reductase in complex with sulfite (covalent adduct),oxidoreductase,x-ray diffraction,1.84,True
+2q74, mycobacterium tuberculosis suhb,hydrolase,x-ray diffraction,2.6,True
+4x3r, avi-gcpii structure in complex with fitc-conjugated gcpii-specific inhibitor,hydrolase,x-ray diffraction,1.86,True
+3pzg," i222 crystal form of the hyperthermostable endo-1,4-beta-d-mannanase from thermotoga petrophila rku-1",hydrolase,x-ray diffraction,1.4,True
+5gxi, strucutre of the gemin5 wd40 domain in complex with aauuuuugag,rna binding protein/rna,x-ray diffraction,1.85,True
+3hy4, structure of human mthfs with n5-iminium phosphate,ligase,x-ray diffraction,2.79,True
+1xf4, structure of ligand-free fab dna-1 in space group p321 solved from crystals with perfect hemihedral twinning,immune system,x-ray diffraction,2.5,True
+5bxs, lnbase in complex with lnb-nhaccas,hydrolase,x-ray diffraction,2.2,True
+5xkd, crystal structure of dibenzothiophene sulfone monooxygenase bdsa in complex with fmn at 2.4 angstrom,oxidoreductase,x-ray diffraction,2.39,True
+4zii, crystal structure of core/latch dimer of baxi66a in complex with bidbh3,apoptosis,x-ray diffraction,2.19,True
+4hkt, crystal structure of a putative myo-inositol dehydrogenase from sinorhizobium meliloti 1021 (target psi-012312),oxidoreductase,x-ray diffraction,2.0,True
+4bgl, superoxide reductase (neelaredoxin) from archaeoglobus fulgidus,oxidoreductase,x-ray diffraction,1.9,True
+1dyq, staphylococcal enterotoxin a mutant vaccine,enterotoxin,x-ray diffraction,1.5,True
+2ddt, crystal structure of sphingomyelinase from bacillus cereus with magnesium ion,hydrolase,x-ray diffraction,1.8,True
+6p1e, cu-bound pmof1 pcuac domain (dimer),metal binding protein,x-ray diffraction,1.61,True
+3lx7, crystal structure of a novel tudor domain-containing protein sgf29,transcription regulator,x-ray diffraction,1.78,True
+1y8a, structure of gene product af1437 from archaeoglobus fulgidus,"structural genomics, unknown function",x-ray diffraction,1.4,True
+2z4z, s. cerevisiae geranylgeranyl pyrophosphate synthase in complex with magnesium and bph-sc01,transferase/transferase inhibitor,x-ray diffraction,2.09,True
+5h4v, structure of glutamyl-trna synthetase (xoo1504) from xanthomonas oryzae pv. oryzae,ligase,x-ray diffraction,3.0,True
+6bm8, crystal structure of glycoprotein b from herpes simplex virus type i,viral protein,x-ray diffraction,4.1,True
+5qsn, pandda analysis group deposition -- crystal structure of human stag1 in complex with z1272480091,transcription,x-ray diffraction,2.66,True
+1do1, carbonmonoxy-myoglobin mutant l29w at 105k,oxygen storage/transport,x-ray diffraction,1.5,True
+1pcw," aquifex aeolicus kdo8ps in complex with cadmium and app, a bisubstrate inhibitor",lyase,x-ray diffraction,1.85,True
+3gx9, structure of morphinone reductase n189a mutant in complex with tetrahydronad,oxidoreductase,x-ray diffraction,2.28,True
+1bzy, human hgprtase with transition state inhibitor,phosphoribosyltransferase,x-ray diffraction,2.0,True
+3oru, crystal structure of a duf1989 family protein (tm1040_0329) from silicibacter sp. tm1040 at 1.11 a resolution,metal binding protein,x-ray diffraction,1.11,True
+4ak6, bpgh117_h302e mutant glycoside hydrolase,hydrolase,x-ray diffraction,1.9,True
+6j4a, human h chain ferritin with an extension peptide,oxidoreductase,x-ray diffraction,3.99,True
+6o1t, bovine salivary protein form 30b with oleic acid,lipid binding protein,x-ray diffraction,2.3,True
+6chm, phosphopantetheine adenylyltransferase (coad) in complex with n-(2-(5- methoxy-1h-indol-3-yl)ethyl)pivalamide,transferase/antibiotic,x-ray diffraction,2.28,True
+1sz0, n-terminal 3 domains of ci-mpr bound to mannose 6-phosphate,"protein transport,sugar binding protein",x-ray diffraction,2.1,True
+3kqm, crystal structure of hpnmt in complex adohcy and 4-bromo-1h-imidazole,transferase,x-ray diffraction,2.4,True
+1okg, 3-mercaptopyruvate sulfurtransferase from leishmania major,transferase,x-ray diffraction,2.1,True
+4lkx, humanized antibody 4b12 fab complexed with a cemx segment,immune system,x-ray diffraction,1.92,True
+4hyu, crystal structure of jnk1 in complex with jip1 peptide and 4-{4-[4-(3- methanesulfonyl-propoxy)-indazol-1-yl]-pyrimidin-2-ylamino}- cyclohexan,transferase/transferase inhibitor,x-ray diffraction,2.15,True
+4xka, n-terminal domain of hsp90 from dictyostelium discoideum in hexagonal form with glycerol,chaperone,x-ray diffraction,2.0,True
+5b0j, structure of moen5-sso7d fusion protein in complex with beta-undecyl maltoside,"transferase, dna binding protein",x-ray diffraction,2.5,True
+3kzk, crystal structure of acetylornithine transcarbamylase complexed with acetylcitrulline,transferase,x-ray diffraction,1.9,True
+5ex1, crystal structure of cyclophilin aquacyp300 from hirschia baltica,isomerase,x-ray diffraction,2.05,True
+5mr6, xiaf from streptomyces sp. in complex with fadh2 and glycerol,oxidoreductase,x-ray diffraction,2.4,True
+1zqf, dna polymerase beta (pol b) (e.c.2.7.7.7) complexed with seven base pairs of dna; soaked in the presence of cscl (150 millimolar),transferase/dna,x-ray diffraction,2.9,True
+5zae, upa-6f-hma,hydrolase,x-ray diffraction,1.73,True
+5z0b, crystal structure of plasma-derived human serum albumin,transport protein,x-ray diffraction,2.17,True
+2ycz, turkey beta1 adrenergic receptor with stabilising mutations and bound antagonist iodocyanopindolol,receptor,x-ray diffraction,3.65,True
+4l3u, crystal structure of a duf3571 family protein (abaye3784) from acinetobacter baumannii aye at 1.95 a resolution,"structural genomics, unknown function",x-ray diffraction,1.95,True
+4uw2, crystal structure of csm1 in t.onnurineus,immune system,x-ray diffraction,2.63,True
+5d1f, crystal structure of maize pdrp bound with amp and hg2+,transferase,x-ray diffraction,3.4,True
+3evp, crystal structure of circular-permutated egfp,signaling protein,x-ray diffraction,1.45,True
+3rc2," crystal structure of kijd10, a 3-ketoreductase from actinomadura kijaniata in complex with tdp-benzene and nadp; open conformation",sugar binding protein,x-ray diffraction,1.8,True
+3be1, dual specific bh1 fab in complex with the extracellular domain of her2/erbb-2,transferase,x-ray diffraction,2.9,True
+3dy7, x-ray structure of the human mitogen-activated protein kinase kinase 1 (mek1) in a complex with ligand and mgatp,transferase,x-ray diffraction,2.7,True
+1av6, vaccinia methyltransferase vp39 complexed with m7g capped rna hexamer and s-adenosylhomocysteine,transferase/rna,x-ray diffraction,2.8,True
+3vmq, crystal structure of staphylococcus aureus membrane-bound transglycosylase: apoenzyme,transferase,x-ray diffraction,2.52,True
+5z0v, structural insight into the zika virus capsid encapsulating the viral genome,viral protein,x-ray diffraction,2.91,True
+1o3x, crystal structure of human gga1 gat domain,protein transport,x-ray diffraction,2.1,True
+4lrz, crystal structure of the e.coli dhar(n)-dhal complex,transferase/transcription regulator,x-ray diffraction,2.32,True
+1e8z," structure determinants of phosphoinositide 3-kinase inhibition by wortmannin, ly294002, quercetin, myricetin and staurosporine",transferase,x-ray diffraction,2.4,True
+4qlb, structural basis for the recruitment of glycogen synthase by glycogenin,transferase,x-ray diffraction,2.6,True
+4z2i, serratia marcescens chitinase b complexed with macrolide inhibitor 30,hydrolase/hydrolase inhibitor,x-ray diffraction,2.0,True
+3fu6, leukotriene a4 hydrolase in complex with fragment (4-thiophen-2- ylphenyl)methanamine,hydrolase,x-ray diffraction,2.05,True
+3kjs, crystal structure of t. cruzi dhfr-ts with 3 high affinity dhfr inhibitors: dq1 inhibitor complex,"oxidoreductase,transferase",x-ray diffraction,2.5,True
+5tta, a 1.85a x-ray structure from peptoclostridium difficile 630 of a hypothetical protein,"structural genomics, unknown function",x-ray diffraction,1.85,True
+5hgi, crystal structure of apo human ire1 alpha,transferase/oxidoreductase,x-ray diffraction,2.58,True
+3g9c, crystal structure of the product bacillus anthracis glms ribozyme,rna binding protein/rna,x-ray diffraction,2.9,True
+2oiz, crystal structure of the tryptamine-derived (indol-3-acetamide)-ttq adduct of aromatic amine dehydrogenase,oxidoreductase,x-ray diffraction,1.05,True
+3cgg, crystal structure of tehb-like sam-dependent methyltransferase (np_600671.1) from corynebacterium glutamicum atcc 13032 kitasato at 2.00 a resolution,transferase,x-ray diffraction,2.0,True
+2oo7, crystal structure of a thermostable mutant of bacillus subtilis adenylate kinase (t179i/q199r),transferase,x-ray diffraction,1.8,True
+4clt," crystal structure of human soluble adenylyl cyclase with adenosine-3', 5'-cyclic-monophosphate and pyrophosphate",lyase,x-ray diffraction,1.95,True
+3aix, crystal structure of pcna2-pcna3 complex from sulfolobus tokodaii (i222),replication,x-ray diffraction,2.9,True
+1kz8," crystal structure of porcine fructose-1,6-bisphosphatase complexed with a novel allosteric-site inhibitor",hydrolase,x-ray diffraction,2.0,True
+3o37, crystal structure of trim24 phd-bromo complexed with h3(1-10)k4 peptide,transcription/protein binding,x-ray diffraction,2.0,True
+2vye, crystal structure of the dnac-ssdna complex,hydrolase/dna,x-ray diffraction,4.1,True
+2qqc, e109q mutant of pyruvoyl-dependent arginine decarboxylase from methanococcus jannashii,lyase,x-ray diffraction,2.0,True
+5vgu, structure of halothece sp. pcc 7418 ccmk4,structural protein,x-ray diffraction,1.81,True
+5ngl," the endo-beta1,6-glucanase bt3312",hydrolase,x-ray diffraction,1.85,True
+4gnx, structure of u. maydis replication protein a bound to ssdna,dna binding protein/dna,x-ray diffraction,2.8,True
+3ior, huntingtin amino-terminal region with 17 gln residues - crystal c95,signaling protein,x-ray diffraction,3.6,True
+6bhp, crystal structure of the chlamydomonas reinhardtii lci1 channel,membrane protein,x-ray diffraction,3.21,True
+3bov, crystal structure of the receptor binding domain of mouse pd-l2,immune system,x-ray diffraction,1.77,True
+2cx3, crystal structure of a bacterioferritin comigratory protein peroxiredoxin from the aeropyrum pernix k1 (form-1 crystal),oxidoreductase,x-ray diffraction,2.64,True
+3orz, pdk1 mutant bound to allosteric disulfide fragment activator 2a2,transferase/transferase activator,x-ray diffraction,2.0,True
+3oja, crystal structure of lrim1/apl1c complex,protein binding,x-ray diffraction,2.7,True
+2wld, crystallographic analysis of the polysialic acid o- acetyltransferase oatwy,transferase,x-ray diffraction,2.2,True
+1k0z, crystal structure of the pvuii endonuclease with pr3+ and so4 ions bound in the active site at 2.05a.,hydrolase,x-ray diffraction,2.05,True
+4i1l, structural and biological features of foxp3 dimerization relevant to regulatory t cell function,transcription regulator,x-ray diffraction,2.1,True
+5och, the crystal structure of human abcb8 in an outward-facing state,hydrolase,x-ray diffraction,3.4,True
+3rsz, maltodextran bound basal state conformation of yeast glycogen synthase isoform 2,transferase,x-ray diffraction,3.01,True
+4qar, 1.45 a resolution structure of ct263 (mtan) from chlamydia trachomatis bound to adenine,hydrolase,x-ray diffraction,1.45,True
+1ng5, 2.0 a crystal structure of staphylococcus aureus sortase b,"hydrolase, transferase",x-ray diffraction,2.0,True
+5mij, x-ray structure of carboplatin-encapsulated horse spleen apoferritin,metal transport,x-ray diffraction,1.49,True
+6d1y," crystal structure of tyrosine-protein kinase receptor in complex with 2,4-dichloro-n-(3-methyl-1-phenyl-1h-pyrazol-5-yl)benzamide inhibitor",transferase/inhibitor,x-ray diffraction,1.93,True
+3jts, gy9-mamu-a*02-hb2m,immune system,x-ray diffraction,2.8,True
+4i2h, ternary complex of mouse tdt with ssdna and ampcpp,transferase/dna,x-ray diffraction,2.75,True
+6eib, structure of the active ggeef domain of a diguanylate cyclase from vibrio cholerae.,transferase,x-ray diffraction,1.94,True
+2oc7, structure of hepatitis c viral ns3 protease domain complexed with ns4a peptide and ketoamide sch571696,viral protein,x-ray diffraction,2.7,True
+3zyj, netring1 in complex with ngl1,cell adhesion,x-ray diffraction,3.25,True
+5n63, crystal structure of p38alpha in complex with lipid pocket ligand 9c,transferase,x-ray diffraction,2.4,True
+6imu," the apo-structure of endo-beta-1,2-glucanase from talaromyces funiculosus",hydrolase,x-ray diffraction,2.0,True
+4fa0, crystal structure of human adpla to 2.65 a resolution,hydrolase,x-ray diffraction,2.65,True
+5vpx, i38t mutant of 2009 h1n1 pa endonuclease in complex with ro-7,hydrolase/hydrolase inhibitor,x-ray diffraction,2.3,True
+4z7o, integrin alphaiibbeta3 in complex with agdv peptide,membrane protein/immune system,x-ray diffraction,2.85,True
+5imp," crystal structure of n299a aspergillus terreus aristolochene synthase complexed with (1s,8s,9ar)-1,9a-dimethyl-8-(prop-1-en-2-yl) decahydroquinolizin-5-ium",lyase/lyase inhibitor,x-ray diffraction,2.04,True
+5y30, crystal structure of lgi1 lrr domain,cell adhesion,x-ray diffraction,1.78,True
+5c3b, crystal structure of abba + udp-c-gal (long soak) + di,transferase,x-ray diffraction,1.4,True
+3arg, ternary crystal structure of the mouse nkt tcr-cd1d-alpha- glucosylceramide(c20:2),immune system,x-ray diffraction,3.0,True
+6bi7, crystal structure of rev7-wt/rev3 as a monomer under high-salt conditions,replication,x-ray diffraction,2.8,True
+4u5a, sporozoite protein for cell traversal,transport protein,x-ray diffraction,2.75,True
+2ffu, crystal structure of human ppgalnact-2 complexed with udp and ea2,transferase,x-ray diffraction,1.64,True
+6bdl, crystal structure of cgmp-dependent protein kinase ialpha (pkg ialpha) catalytic domain in apo state,transferase,x-ray diffraction,1.96,True
+6bzd, structure of 14-3-3 gamma r57e mutant bound to glcnacylated peptide,signaling protein,x-ray diffraction,2.67,True
+2puh," crystal structure of the s112a mutant of a c-c hydrolase, bphd from burkholderia xenovorans lb400, in complex with its substrate hopda",hydrolase,x-ray diffraction,1.82,True
+3lnp, crystal structure of amidohydrolase family protein olei01672_1_465 from oleispira antarctica,hydrolase,x-ray diffraction,2.1,True
+6def, vps1 gtpase-bse fusion complexed with gmppcp,hydrolase,x-ray diffraction,2.26,True
+1my4, crystal structure of glutamate receptor ligand-binding core in complex with iodo-willardiine in the zn crystal form,membrane protein,x-ray diffraction,1.9,True
+3c0r, structure of ovarian tumor (otu) domain in complex with ubiquitin,"cell cycle, hydrolase",x-ray diffraction,2.32,True
+5w76, crystal structure of reconstructed bacterial elongation factor node 168,translation,x-ray diffraction,2.15,True
+4ap5, crystal structure of human pofut2,transferase,x-ray diffraction,3.0,True
+2o58, horse heart met manganese myoglobin,oxygen storage/transport,x-ray diffraction,1.65,True
+4gde, crystal structure of nadph-reduced aspergillus fumigatus udp- galactopyranose,isomerase,x-ray diffraction,2.2,True
+1rmy, crystal structure of apha class b acid phosphatase/phosphotransferase ternary complex with deoxycytosine and phosphate bound to the catalytic metal,hydrolase,x-ray diffraction,1.75,True
+5l2b," structure of cntnw n149s, e332a in an outward-facing state",transport protein,x-ray diffraction,3.8,True
+5z6r, spastin aaa with atp,hydrolase,x-ray diffraction,3.0,True
+4lbd, ligand-binding domain of the human retinoic acid receptor gamma bound to the synthetic agonist bms961,nuclear receptor,x-ray diffraction,2.5,True
+1kmt," crystal structure of rhogdi glu(154,155)ala mutant",protein binding,x-ray diffraction,1.3,True
+3mic, oxidized (cu2+) peptidylglycine alpha-hydroxylating monooxygenase (phm) with bound azide obtained by co-crystallization,oxidoreductase,x-ray diffraction,2.42,True
+8ruc, activated spinach rubisco complexed with 2-carboxyarabinitol bisphosphate,lyase (carbon-carbon),x-ray diffraction,1.6,True
+4pw9, crystal structure of the electron-transfer complex formed between a sulfite dehydrogenase and a c-type cytochrome from sinorhizobium meliloti,oxidoreductase/electron transport,x-ray diffraction,2.49,True
+1e8o, core of the alu domain of the mammalian srp,alu ribonucleoprotein particle,x-ray diffraction,3.2,True
+2v5a, crystal structure of biotin carboxylase from e.coli in complex with potent inhibitor 3,ligase,x-ray diffraction,2.31,True
+5jca, nadp(h) bound nadh-dependent ferredoxin:nadp oxidoreductase (nfni) from pyrococcus furiosus,oxidoreductase,x-ray diffraction,1.5,True
+3tya, dihydropteroate synthase in complex with product,transferase,x-ray diffraction,2.61,True
+4qsj," crystal structure of human carbonic anhydrase isozyme xiii with 2- chloro-4-{[(4-methyl-6-oxo-1,6-dihydropyrimidin-2-yl) thio]acetyl}benzenesulfonamide",lyase/lyase inhibitor,x-ray diffraction,1.7,True
+1c3o, crystal structure of the carbamoyl phosphate synthetase: small subunit mutant c269s with bound glutamine,ligase,x-ray diffraction,2.1,True
+5kri, crystal structure of the er-alpha ligand-binding domain (y537s) in complex with 16b-benzyl 17b-estradiol,transcription,x-ray diffraction,2.25,True
+1m65, ycdx protein,"structural genomics, unknown function",x-ray diffraction,1.57,True
+4kw3, crystal structure of the non-structural protein 1 n-terminal origin- recognition/nickase domain from the emerging human bocavirus,viral protein,x-ray diffraction,2.7,True
+6ue5, crystal structure of full-length human dcaf15-ddb1-deltapbp-dda1-rbm39 in complex with 4-(aminomethyl)-n-(3-cyano-4-methyl-1h-indol-7-yl) benzenesulfonamide,ligase,x-ray diffraction,2.61,True
+4aqs, laminin beta1 ln-le1-4 structure,cell adhesion,x-ray diffraction,3.11,True
+6ea7, structure of ebov gpcl in complex with the pan-ebolavirus mab adi- 15878,viral protein/immune system,x-ray diffraction,4.25,True
+5cos, crystal structure of the cytoplasmic domain of the pseudomonas putida anti-sigma factor pupr,transcription,x-ray diffraction,2.02,True
+3ong, crystal structure of uba2ufd-ubc9: insights into e1-e2 interactions in sumo pathways,ligase,x-ray diffraction,2.3,True
+6qvl, human shmt2 in complex with pemetrexed,transferase,x-ray diffraction,2.28,True
+6gih, crystal structure of ck2alpha with cam187 bound,transferase,x-ray diffraction,1.96,True
+3wix, crystal structure of mcl-1 in complex with compound 4,apoptosis,x-ray diffraction,1.9,True
+4f50, y-family dna polymerase chimera dbh-dbh-dpo4,transferase/dna,x-ray diffraction,2.22,True
+5tiu, crystal structure of syk kinase domain with inhibitor,transferase/transferase inhibitor,x-ray diffraction,1.49,True
+6pbt, pseudopaline dehydrogenase with (r)-pseudopaline soaked 2 hours,biosynthetic protein,x-ray diffraction,2.18,True
+2q04, crystal structure of acetoin utilization protein (zp_00540088.1) from exiguobacterium sibiricum 255-15 at 2.33 a resolution,transferase,x-ray diffraction,2.33,True
+2gwo, crystal structure of tmdp,hydrolase,x-ray diffraction,2.4,True
+3vb4, crystal structure of sars-cov 3c-like protease with b4z,hydrolase/hydrolase inhibitor,x-ray diffraction,2.2,True
+4j7t, human ltc4 synthase in complex with product analogs - implications for enzyme catalysis,lyase,x-ray diffraction,3.2,True
+3krz, crystal structure of the thermostable nadh4-bound old yellow enzyme from thermoanaerobacter pseudethanolicus e39,oxidoreductase,x-ray diffraction,1.8,True
+1m67, crystal structure of leishmania mexicana gpdh complexed with inhibitor 2-bromo-6-hydroxy-purine,oxidoreductase,x-ray diffraction,2.5,True
+1eqy, complex between rabbit muscle alpha-actin: human gelsolin domain 1,contractile protein,x-ray diffraction,2.3,True
+4i7i, crystal structure of rabbit ryanodine receptor 1 (residues 1-536) disease mutant l14r,metal transport,x-ray diffraction,2.9,True
+1kp9," crystal structure of mycolic acid cyclopropane synthase cmaa1, apo-form",transferase,x-ray diffraction,2.21,True
+4czh," c. crescentus mreb, single filament, adp, mp265 inhibitor",structural protein,x-ray diffraction,1.64,True
+6d41," bacteriodes uniformis beta-glucuronidase 1 bound to d-glucaro-1,5- lactone",hydrolase,x-ray diffraction,1.9,True
+5uev, brd4_bd2_a-556343,signaling protein/inhibitor,x-ray diffraction,1.94,True
+3tqx, structure of the 2-amino-3-ketobutyrate coenzyme a ligase (kbl) from coxiella burnetii,transferase,x-ray diffraction,2.3,True
+1okk, homo-heterodimeric complex of the srp gtpases,cell cycle,x-ray diffraction,2.05,True
+5hel, crystal structure of the n-terminus y153h bromodomain mutant of human brd2,transcription,x-ray diffraction,1.45,True
+4ydn," high resolution crystal structure of human transthyretin bound to ligand and conjugates of 4-(5-(3,5-dichloro-4-hydroxyphenyl)-1,3,4- oxadiazol-2-yl)phenyl fluorosulfate",transport protein,x-ray diffraction,1.35,True
+4b7i, crystal structure of human igg fc bearing hybrid-type glycans,immune system,x-ray diffraction,2.36,True
+5dbc, structure of human dna polymerase beta host-guest complex with the dg base paired with a dg,transferase/dna,x-ray diffraction,2.4,True
+1s4f, crystal structure of rna-dependent rna polymerase construct 2 from bovine viral diarrhea virus (bvdv),"replication, rna binding protein",x-ray diffraction,3.0,True
+1ozr," crystal structures of the ferric, ferrous and ferrous-no forms of the asp140ala mutant of human heme oxygenase-1: catalytic implications",oxidoreductase,x-ray diffraction,1.74,True
+1in6, thermotoga maritima ruvb k64r mutant,dna binding protein,x-ray diffraction,1.8,True
+5oo4, streptomyces pac13 with uridine,biosynthetic protein,x-ray diffraction,1.6,True
+137l, structural basis of amino acid alpha helix propensity,hydrolase(o-glycosyl),x-ray diffraction,1.85,True
+6cey," aminoglycoside phosphotransferase (2'')-ia in complex with gmppnp, magnesium, and lividomycin moieties",transferase/antibiotic,x-ray diffraction,2.4,True
+6jmk, ribosomal protein s7 from mycobacterium tuberculosis,ribosomal protein,x-ray diffraction,1.8,True
+5ob1, crystal structure of the c-src-sh3 domain q128r mutant in complex with the high affinity peptide app12,transferase,x-ray diffraction,1.17,True
+3u4f, crystal structure of a mandelate racemase (muconate lactonizing enzyme family protein) from roseovarius nubinhibens,isomerase,x-ray diffraction,1.9,True
+4mob, acyl-coenzyme a thioesterase 12 in complex with adp,hydrolase,x-ray diffraction,2.4,True
+1mqe," structure of the mt-adprase in complex with gadolidium and adp-ribose, a nudix enzyme",hydrolase,x-ray diffraction,2.0,True
+5ekt, crystal structure of mutant-k146a of peptidyl-trna hydrolase from vibrio cholerae at 1.63a resolution.,hydrolase,x-ray diffraction,1.63,True
+4fr9, crystal structure of a blip-like protein (bf1215) from bacteroides fragilis nctc 9343 at 1.20 a resolution,unknown function,x-ray diffraction,1.2,True
+5jj6, fic-1 (aa134 - 508) from c. elegans,transferase,x-ray diffraction,2.91,True
+1sq5, crystal structure of e. coli pantothenate kinase,transferase,x-ray diffraction,2.2,True
+1ghp, structures of the acyl-enzyme complex of the staphylococcus aureus beta-lactamase mutant glu166asp:asn170gln with degraded benzylpenicillin,hydrolase,x-ray diffraction,1.76,True
+1y5y, structure of the tetrahydromethanopterin dependent formaldehyde- activating enzyme (fae) from methylobacterium extorquens am1,lyase,x-ray diffraction,2.0,True
+6r54, crystal structure of ppep-1(e184a),hydrolase,x-ray diffraction,1.42,True
+5qor, pandda analysis group deposition -- crystal structure of dcp2 (nudt20) in complex with z1203490773,hydrolase,x-ray diffraction,1.95,True
+4ewc, crystal structure of the infectious salmon anemia virus nucleoprotein,rna binding protein,x-ray diffraction,2.7,True
+5vfy, structure of an accessory protein of the pcw3 relaxosome,dna binding protein,x-ray diffraction,2.49,True
+5c25," crystal structure of hiv-1 reverse transcriptase in complex with 6- ((4-((4-cyanophenyl)amino)-1,3,5-triazin-2-yl)amino)-5,7-dimethyl-2- naphthonitrile (jlj639), a non-nucleoside inhibitor","transferase, hydrolase/inhibitor",x-ray diffraction,2.84,True
+3wsz, sorla vps10p domain in complex with abeta-derived peptide,protein binding,x-ray diffraction,3.2,True
+4nly, poliovirus polymerase - c290e loop mutant,"viral protein, hydrolase",x-ray diffraction,2.3,False
+1a0j, crystal structure of a non-psychrophilic trypsin from a cold-adapted fish species.,serine protease,x-ray diffraction,1.7,False
+4rmo, crystal structure of the cptin type iii toxin-antitoxin system from eubacterium rectale,toxin/rna,x-ray diffraction,2.2,False
+4w9w, crystal structure of bmp-2-inducible kinase in complex with small molecule azd-7762,transferase,x-ray diffraction,1.72,False
+4eka, final thaumatin structure for radiation damage experiment at 25 k,plant protein,x-ray diffraction,1.55,False
+4j4g, structure of p51g cyanovirin-n swapped tetramer in the c2 space group,sugar binding protein,x-ray diffraction,1.92,False
+1htg, x-ray crystallographic studies of a series of penicillin-derived asymmetric inhibitors of hiv-1 protease,hydrolase(acid proteinase),x-ray diffraction,2.0,False
+2fl3, binary complex of restriction endonuclease hinp1i with cognate dna,hydrolase/dna,x-ray diffraction,2.39,False
+1fer, structure at ph 6.5 of ferredoxin i from azotobacter vinelandii at 2.3 angstroms resolution,electron transfer(iron-sulfur protein),x-ray diffraction,2.3,False
+3wdn, high-resolution x-ray crystal structure of bovine h-protein using a high-pressure cryocooling method,oxidoreductase,x-ray diffraction,0.86,False
+3s1w, transaldolase variant lys86ala from thermoplasma acidophilum in complex with glycerol and citrate,transferase,x-ray diffraction,1.8,False
+1w8o, contribution of the active site aspartic acid to catalysis in the bacterial neuraminidase from micromonospora viridifaciens,hydrolase,x-ray diffraction,1.7,False
+1axs, mature oxy-cope catalytic antibody with hapten,catalytic antibody,x-ray diffraction,2.6,False
+1wtr, hyperthermophile chromosomal protein sac7d single mutant m29a in complex with dna gcgatcgc,dna binding protein/dna,x-ray diffraction,1.8,False
+103m, sperm whale myoglobin h64a n-butyl isocyanide at ph 9.0,oxygen transport,x-ray diffraction,2.07,False
+3ukl, crystal structure of udp-galactopyranose mutase from aspergillus fumigatus in complex with udp,isomerase,x-ray diffraction,2.63,False
+6n9p, discovery of affinity-based probes for btk occupancy assay,immune system,x-ray diffraction,2.23,False
+3jx7, bacillus cereus alkylpurine dna glycosylase alkd bound to dna containing a 3-methyladenine analog,hydrolase/dna,x-ray diffraction,1.6,False
+1tfx, complex of the second kunitz domain of tissue factor pathway inhibitor with porcine trypsin,complex (serine protease/inhibitor),x-ray diffraction,2.6,False
+5xk0, structure of 8-mer dna2,dna,x-ray diffraction,1.45,False
+1fue, flavodoxin from helicobacter pylori,electron transport,x-ray diffraction,2.4,False
+1oz6, x-ray structure of acidic phospholipase a2 from indian saw- scaled viper (echis carinatus) with a potent platelet aggregation inhibitory activity,hydrolase,x-ray diffraction,2.6,False
+3rnx, crystal structure of lysozyme in 30% ethanol,hydrolase,x-ray diffraction,1.86,False
+5p2z, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 152,hydrolase,x-ray diffraction,1.52,False
+2hf0, bifidobacterium longum bile salt hydrolase,hydrolase,x-ray diffraction,2.3,False
+5ykw, structural basis of the thiol resolving mechanism in yeast mitochondrial 1-cys peroxiredoxin via glutathione/thioredoxin systems,transferase,x-ray diffraction,2.08,False
+5hav, sperm whale myoglobin mutant l29h f33y f43h (f33y cubmb) with oxygen bound,oxidoreductase,x-ray diffraction,1.27,False
+1y4p, t-to-t(high) quaternary transitions in human hemoglobin: betaw37e deoxy low-salt (10 test sets),transport protein,x-ray diffraction,1.98,False
+3d7o," human hemoglobin, nitrogen dioxide anion modified",oxygen transport,x-ray diffraction,1.8,False
+1rat, effects of temperature on protein structure and dynamics: x- ray crystallographic studies of the protein ribonuclease-a at nine different temperatures from 98 to 320 k,"hydrolase (nucleic acid,rna)",x-ray diffraction,1.5,False
+5d53, in meso in situ serial x-ray crystallography structure of insulin at 100 k,hormone,x-ray diffraction,1.5,False
+2gsp," ribonuclease t1/2',3'-cgps and 3'-gmp, 2 days",endoribonuclease,x-ray diffraction,1.8,False
+4xf6, myo-inositol 3-kinase bound with its products (adp and 1d-myo-inositol 3-phosphate),transferase,x-ray diffraction,2.08,False
+3aa3, a52l e. coli rnase hi,hydrolase,x-ray diffraction,2.2,False
+5c7u, 5'-monophosphate wt guanine riboswitch bound to hypoxanthine.,rna,x-ray diffraction,3.05,False
+4x7b, crystal structure of lipase from geobacillus stearothermophilus t6 methanol stable variant h86y/a269t,hydrolase,x-ray diffraction,2.4,False
+4tvh, hiv protease (pr) dimer in closed form with tl-3 in active site and fragment ak-2097 in the outside/top of flap,hydrolase/hydrolase inhibitor,x-ray diffraction,2.2,False
+1q1p, e-cadherin activation,cell adhesion,x-ray diffraction,3.2,False
+2cff," crystal structure of n-((5'-phosphoribosyl)-formimino)-5- aminoimidazol-4-carboxamid ribonucleotid isomerase mutant d127v (ec 3. 1.3.15, hisa)",isomerase,x-ray diffraction,2.5,False
+1lya, crystal structures of native and inhibited forms of human cathepsin d: implications for lysosomal targeting and drug design,lysosomal aspartic protease,x-ray diffraction,2.5,False
+5p8l, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 354,hydrolase,x-ray diffraction,1.24,False
+5ek8, crystal structure of a 9r-lipoxygenase from cyanothece pcc8801 at 2.7 angstroms,oxidoreductase,x-ray diffraction,2.7,False
+2idu," structure of m98q mutant of amicyanin, cu(i)",electron transport,x-ray diffraction,0.95,False
+6rqw, x-ray crystal structure of perdeuterated (d) small monoclinic unit cell ca ix sv.,proton transport,x-ray diffraction,1.49,False
+5vck, hiv protease (pr) with tl-3 in the active site and (z)-n-(thiazol-2- yl)-n'-tosylcarbamimidate in the exosite,hydrolase,x-ray diffraction,1.8,False
+2fx7, crystal structure of hiv-1 neutralizing human fab 4e10 in complex with a 16-residue peptide encompassing the 4e10 epitope on gp41,immune system,x-ray diffraction,1.76,False
+4jrw, crystal structure of clostridium histolyticum colg collagenase pkd domain 2 at 1.6 angstrom resolution,cell adhesion,x-ray diffraction,1.6,False
+2q95, e. coli methionine aminopeptidase mn-form with inhibitor a05,hydrolase,x-ray diffraction,1.7,False
+6oom, protein a,transport protein,x-ray diffraction,2.2,False
+5zkz," crystal structures of mutant endo-beta-1,4-xylanase ii(y77f) complexed with xylotriose",hydrolase,x-ray diffraction,1.3,False
+4h5a, dna octamer d (gtsegtacac) partially crosslinked with platinum,dna,x-ray diffraction,1.42,False
+1wzk, thermoactinomyces vulgaris r-47 alpha-amylase ii (tva ii) mutatnt d465n,hydrolase,x-ray diffraction,2.3,False
+3i7e, co-crystal structure of hiv-1 protease bound to a mutant resistant inhibitor uic-98038,hydrolase,x-ray diffraction,1.7,False
+1d91, g.t base pairs in a dna helix. the crystal structure of d(g- g-g-g-t-c-c-c),dna,x-ray diffraction,2.1,False
+6dik, crystal structure of bothropstoxin i (bthtx-i) complexed to chicoric acid,toxin,x-ray diffraction,1.93,False
+2xbr, raman crystallography of hen white egg lysozyme - low x-ray dose (0.2 mgy),hydrolase,x-ray diffraction,1.29,False
+2gvr, crystal structure of the berenil-d(cgcgaattcgcg)2 complex at 1.65 a resolution.,dna,x-ray diffraction,1.65,False
+6e3g, structure of rorgt in complex with a novel agonist.,nuclear protein/agonist,x-ray diffraction,2.1,False
+4tq9, crystal structure of a gdp-bound g12v oncogenic mutant of human gtpase kras,hydrolase,x-ray diffraction,1.49,False
+2p7e, vanadate at the active site of a small ribozyme suggests a role for water in transition-state stabilization,rna,x-ray diffraction,2.05,False
+1lzr, structural changes of the active site cleft and different saccharide binding modes in human lysozyme co-crystallized with hexa-n-acetyl- chitohexaose at ph 4.0,hydrolase (o-glycosyl),x-ray diffraction,1.5,False
+1g6u, crystal structure of a domain swapped dimer,de novo protein,x-ray diffraction,1.48,False
+5mvl, crystal structure of an a-dna dodecamer containing 5-bromouracil,dna,x-ray diffraction,1.41,False
+1rac, crystal structure of ctp-ligated t state aspartate transcarbamoylase at 2.5 angstroms resolution: implications for atcase mutants and the mechanism of negative cooperativity,transferase,x-ray diffraction,2.5,False
+1r8c, crystal structures of an archaeal class i cca-adding enzyme and its nucleotide,transferase,x-ray diffraction,1.9,False
+5jeh, human carbonic anhydrase ii (l198a) complexed with benzo[d]thiazole-2- sulfonamide,lyase,x-ray diffraction,1.13,False
+5zow, copper amine oxidase from arthrobacter globiformis anaerobically reduced by ethylamine at ph 6 at 288 k (2),oxidoreductase,x-ray diffraction,1.78,False
+5wsh, structure of hla-a2 p130,immune system,x-ray diffraction,2.0,False
+1a55, phosphate-binding protein mutant a197c,phosphotransferase,x-ray diffraction,2.4,False
+6iwh, crystal structure of rhesus macaque mhc class i molecule mamu-b*05104 complexed with c14-gggi lipopeptide,immune system,x-ray diffraction,1.95,False
+2pqz, hiv-1 protease in complex with a pyrrolidine-based inhibitor,hydrolase,x-ray diffraction,1.55,False
+4w7y, dimeric bap29 vded with disulfide bonds in crystal contacts,transport protein,x-ray diffraction,2.5,False
+1m40, ultra high resolution crystal structure of tem-1,hydrolase,x-ray diffraction,0.85,False
+6ohk, crystal structure of fusobacterium nucleatum flavodoxin mutant k13g bound to flavin mononucleotide,electron transport,x-ray diffraction,1.2,False
+3d73," crystal structure of a pheromone binding protein mutant d35a, from apis mellifera, at ph 7.0",pheromone binding protein,x-ray diffraction,2.03,False
+1qqq, crystal structure analysis of ser254 mutant of escherichia coli thymidylate synthase,transferase,x-ray diffraction,1.5,False
+4o33, crystal structure of human pgk1 3pg and terazosin(tzn) ternary complex,transferase/transferase activator,x-ray diffraction,2.1,False
+2efp, crystal structure of tyr77 to ala of st1022-glutamine complex from sulolobus tokodaii 7,transcription regulator,x-ray diffraction,2.2,False
+1rf5, structural studies of streptococcus pneumoniae epsp synthase in unliganded state,transferase,x-ray diffraction,2.3,False
+1adw, pseudoazurin,electron transport,x-ray diffraction,2.5,False
+6kjf, lovastatin esterase pcest in complex with simvastatin,hydrolase,x-ray diffraction,2.4,False
+1kwt," rat mannose binding protein a (native, mpd)","immune system, sugar binding protein",x-ray diffraction,1.95,False
+4kmv," structure of the l100f mutant of dehaloperoxidase-hemoglobin a from amphitrite ornata with 2,4,6-trichlorophenol",oxidoreductase/oxidoreductase inhibitor,x-ray diffraction,1.44,False
+2gyp, diabetes mellitus due to a frustrated schellman motif in hnf-1a,transcription regulator,x-ray diffraction,1.4,False
+2fxe, x-ray crystal structure of hiv-1 protease crm mutant complexed with atazanavir (bms-232632),hydrolase,x-ray diffraction,1.8,False
+5mx9, high resolution crystal structure of the mcr-2 catalytic domain,transferase,x-ray diffraction,1.12,False
+1zpe, arginase i covalently modified with butylamine at q19c,hydrolase,x-ray diffraction,1.7,False
+5uvz, brd4 bromodomain 2 with a-1354689,signaling protein/inhibitor,x-ray diffraction,1.63,False
+1aib, structural basis for the catalytic activity of aspartate aminotransferase k258h lacking the pyridoxal-5'-phosphate binding lysine residue,transferase(aminotransferase),x-ray diffraction,2.8,False
+1hc0, structure of lysozyme with periodate,hydrolase,x-ray diffraction,1.82,False
+5p4m, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 211,hydrolase,x-ray diffraction,1.07,False
+1l7l, crystal structure of pseudomonas aeruginosa lectin 1 determined by single wavelength anomalous scattering phasing method,sugar binding protein,x-ray diffraction,1.5,False
+1ua7, crystal structure analysis of alpha-amylase from bacillus subtilis complexed with acarbose,hydrolase,x-ray diffraction,2.21,False
+1c1t," recruiting zinc to mediate potent, specific inhibition of serine proteases",hydrolase/hydrolase inhibitor,x-ray diffraction,1.37,False
+2ed5, mutant s147m structure of ph0725 from pyrococcus horikoshii ot3,transferase,x-ray diffraction,2.1,False
+2iit, human dipeptidyl peptidase 4 in complex with a diazepan-2-one inhibitor,hydrolase,x-ray diffraction,2.35,False
+5p6e, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 275,hydrolase,x-ray diffraction,1.21,False
+1hmd, the structure of deoxy and oxy hemerythrin at 2.0 angstroms resolution,oxygen transport,x-ray diffraction,2.0,False
+3el5, crystal structure of nelfinavir (nfv) complexed with a multidrug variant (act) (v82t/i84v) of hiv-1 protease,hydrolase,x-ray diffraction,1.6,False
+5vnp, x-ray crystal structure of halotag bound to the p1 benzoxadiazole fluorogenic ligand,hydrolase,x-ray diffraction,2.23,False
+4xsn, copper(ii) bound to the z-dna form of d(cgcgcg),dna,x-ray diffraction,1.45,False
+1t71, crystal structure of a novel phosphatase mycoplasma pneumoniaefrom,hydrolase,x-ray diffraction,2.1,False
+1qd0, camelid heavy chain variable domains provide efficient combining sites to haptens,immune system,x-ray diffraction,2.5,False
+3dan, crystal structure of allene oxide synthase,lyase,x-ray diffraction,1.8,False
+5f0w, crystal structure of human copper homeostatic proteins atox1,metal binding protein,x-ray diffraction,2.7,False
+4iha, crystal structure of rice dwarf14 (d14) in complex with a gr24 hydrolysis intermediate,hydrolase,x-ray diffraction,1.55,False
+1z6s, ribonuclease a- amp complex,hydrolase,x-ray diffraction,1.5,False
+1af7, cher from salmonella typhimurium,methyltransferase,x-ray diffraction,2.0,False
+2aa4," crystal structure of escherichia coli putative n- acetylmannosamine kinase, new york structural genomics consortium",transferase,x-ray diffraction,2.2,False
+1wef, catalytic domain of muty from escherichia coli k20a mutant,hydrolase,x-ray diffraction,1.9,False
+5lzh, cholera toxin classical b-pentamer in complex with inhibitor pc262,toxin,x-ray diffraction,1.13,False
+3t74, thermolysin in complex with ubtln27,hydrolase/hydrolase inhibitor,x-ray diffraction,1.28,False
+5jk4, phosphate-binding protein from stenotrophomonas maltophilia.,transport protein,x-ray diffraction,1.1,False
+2c0h, x-ray structure of beta-mannanase from blue mussel mytilus edulis,hydrolase,x-ray diffraction,1.6,False
+3web, crystal structure of a niemann-pick type c2 protein from japanese carpenter ant in complex with oleic acid,lipid binding protein,x-ray diffraction,1.7,False
+1iwh, crystal structure of horse carbonmonoxyhemoglobin-bezafibrate complex at 1.55a resolution: a novel allosteric binding site in r-state hemoglobin,oxygen storage/transport,x-ray diffraction,1.55,False
+1lhy, crystal structure of tem-30 beta-lactamase at 2.0 angstrom,hydrolase,x-ray diffraction,2.0,False
+1bun, structure of beta2-bungarotoxin: potassium channel binding by kunitz modules and targeted phospholipase action,toxin,x-ray diffraction,2.45,False
+4fd2, crystal structure of the c-terminal domain of clpb,chaperone,x-ray diffraction,3.0,False
+1i6t, structure of inorganic pyrophosphatase,hydrolase,x-ray diffraction,1.2,False
+2hyr, crystal structure of a complex of griffithsin with maltose,sugar binding protein,x-ray diffraction,1.51,False
+1qrd, quinone reductase/fad/cibacron blue/duroquinone complex,quinone-reductase (cytosolic),x-ray diffraction,2.4,False
+4np2, crystal structure of the murine cd44 hyaluronan binding domain complex with a small molecule,cell adhesion/inhibitor,x-ray diffraction,1.75,False
+3i37, proteinase k by lb nanotemplate method before high x-ray dose on id14- 2 beamline at esrf,hydrolase,x-ray diffraction,1.0,False
+2fpd, sad structure determination: crystal structure of the intrinsic dimerization sh3 domain of the ib1 scaffold protein,signaling protein,x-ray diffraction,2.05,False
+3ia2, pseudomonas fluorescens esterase complexed to the r-enantiomer of a sulfonate transition state analog,hydrolase,x-ray diffraction,1.65,False
+3r2r, 1.65a resolution structure of iron soaked ftna from pseudomonas aeruginosa (ph 6.0),metal binding protein,x-ray diffraction,1.65,False
+6rp5, crystal structure of monocarboxylated hemoglobin from the sub- antarctic fish eleginops maclovinus,oxygen transport,x-ray diffraction,1.49,False
+4dww, crystal structure of nattokinase from bacillus subtilis natto,hydrolase,x-ray diffraction,1.74,False
+1zco, crystal structure of pyrococcus furiosus 3-deoxy-d-arabino- heptulosonate 7-phosphate synthase,lyase,x-ray diffraction,2.25,False
+4v0z, o-nitrophenyl cellobioside as an active site probe for family 7 cellobiohydrolases,hydrolase,x-ray diffraction,1.7,False
+6enp, atomic resolution structure of human rnase 6 in the presence of phosphate anions in p21 space group.,hydrolase,x-ray diffraction,1.04,False
+2bnr, structural and kinetic basis for heightened immunogenicity of t cell vaccines,immune system/receptor,x-ray diffraction,1.9,False
+3sce, structure of the thioalkalivibrio nitratireducens cytochrome c nitrite reductase with a covalent bond between the ce1 atom of tyr303 and the cg atom of gln360 (tvnirb),oxidoreductase,x-ray diffraction,1.45,False
+5nqd, arsenite oxidase aioab from rhizobium sp. str. nt-26 mutant aiobf108a,oxidoreductase,x-ray diffraction,2.2,False
+4w93, human pancreatic alpha-amylase in complex with montbretin a,hydrolase/hydrolase inhibitor,x-ray diffraction,1.35,False
+2dsx, crystal structure of rubredoxin from desulfovibrio gigas to ultra-high 0.68 a resolution,electron transport,x-ray diffraction,0.68,False
+1g1y, crystal structure of alpha-amylase ii (tvaii) from thermoactinomyces vulgaris r-47 and beta-cyclodextrin complex,hydrolase,x-ray diffraction,3.0,False
+6ewk, t. californica ache in complex with a 3-hydroxy-2-pyridine aldoxime.,hydrolase,x-ray diffraction,2.22,False
+4yr1, crystal structure of e. coli alkaline phosphatase d101a/d153a in complex with inorganic phosphate,hydrolase,x-ray diffraction,2.24,False
+4gvp, crystal structure of the response regulator protein vrar from staphylococcus aureus,transcription,x-ray diffraction,2.03,False
+1npt, glyceraldehyde-3-phosphate dehydrogenase mutant with cys 149 replaced by ala complexed with nad+,oxidoreductase,x-ray diffraction,2.18,False
+4lbr," crystal structure of human ar complexed with nadp+ and {5-chloro-2- [(2,6-difluoro-4-iodobenzyl)carbamoyl]phenoxy}acetic acid",oxidoreductase,x-ray diffraction,0.8,False
+6gjl, cyclophilin a complexed with tri-vector ligand 10.,isomerase,x-ray diffraction,1.16,False
+1bjm," loc naks, a lambda 1 type light-chain dimer (bence-jones protein) crystallized in nakso4",immunoglobulin,x-ray diffraction,2.2,False
+2qaa, crystal structure of the second tetrahedral intermediates of sgpb at ph 7.3,hydrolase,x-ray diffraction,1.23,False
+1li0, crystal structure of tem-32 beta-lactamase at 1.6 angstrom,hydrolase,x-ray diffraction,1.61,False
+1czn, refined structures of oxidized flavodoxin from anacystis nidulans,electron transport,x-ray diffraction,1.7,False
+3t4y, s25-2- kdo monosaccharide complex,immune system,x-ray diffraction,1.73,False
+1dyj," isomorphous crystal structures of escherichia coli dihydrofolate reductase complexed with folate, 5- deazafolate and 5,10-dideazatetrahydrofolate: mechanistic implications",oxidoreductase,x-ray diffraction,1.85,False
+1rsn," ribonuclease (rnase sa) (e.c.3.1.4.8) complexed with exo-2', 3'-cyclophosphorothioate",hydrolase (guanyloribonuclease),x-ray diffraction,2.0,False
+4g9f, crystal structure of c12c tcr-hlab2705-kk10-l6m,immune system,x-ray diffraction,1.9,False
+1hya," hyaluronic acid, structure of a fully extended 3-fold helical sodium salt and comparison with the less extended 4-fold helical forms",texture of connective tissue,x-ray diffraction,3.0,False
+3glp, 1.23 a resolution x-ray structure of (gcugcugc)2,rna,x-ray diffraction,1.23,False
+4b2b, structure of the factor xa-like trypsin variant triple-ala (tgpa) in complex with eglin c,hydrolase/hydrolase inhibitor,x-ray diffraction,1.36,False
+5zzc, crystal structure of the complex of phosphopantetheine adenylyltransferase from acinetobacter baumannii with dephospho coenzyme a at 1.94a resolution,transferase,x-ray diffraction,1.96,False
+1q0m, crystal structure of ni-containing superoxide dismutase with ni-ligation corresponding to the state after full x- ray-induced reduction,oxidoreductase,x-ray diffraction,1.68,False
+4tna, further refinement of the structure of yeast t-rna-phe,t-rna,x-ray diffraction,2.5,False
+1qsy, ddatp-trapped closed ternary complex of the large fragment of dna polymerase i from thermus aquaticus,transferase/dna,x-ray diffraction,2.3,False
+1g6t, structure of epsp synthase liganded with shikimate-3-phosphate,transferase,x-ray diffraction,1.6,False
+4p6l, crystal structure of the computationally designed transmembrane metallotransporter in octyl glucoside,de novo protein,x-ray diffraction,2.8,False
+3n4o," insights into the stabilizing contributions of a bicyclic cytosine analogue: crystal structures of dna duplexes containing 7,8- dihydropyrido[2,3-d]pyrimidin-2-one",dna,x-ray diffraction,2.9,False
+1ud6, crystal structure of amyk38 with potassium ion,hydrolase,x-ray diffraction,2.5,False
+3cgp, x-ray structure of a pseudouridine-containing yeast spliceosomal u2 snrna-intron branch site duplex bound to iodide ions,rna,x-ray diffraction,1.57,False
+4ep8, initial urease structure for radiation damage experiment at 100 k,hydrolase,x-ray diffraction,1.55,False
+1v2q, trypsin inhibitor in complex with bovine trypsin variant x(sswi)bt.b4,hydrolase,x-ray diffraction,2.3,False
+4q6h, cftr associated ligand (cal) bound to last 6 residues of cftr (decameric peptide: ical36vqdtrl),transport protein,x-ray diffraction,1.9,False
+1i0h, crystal structure of the e. coli manganese superoxide dismutase mutant y174f at 1.35 angstroms resolution.,oxidoreductase,x-ray diffraction,1.35,False
+1cmy," the mutation beta99 asp-tyr stabilizes y-a new, composite quaternary state of human hemoglobin",oxygen transport,x-ray diffraction,3.0,False
+4v2n," crystallographic structure of thioredoxin from litopenaeus vannamei: radiation damage effect at 85 mgy, focused in disulfide bonds",oxidoreductase,x-ray diffraction,2.15,False
+3oyw, crystal structure of human galectin-1 in complex with thiodigalactoside,carbohydrate binding protein,x-ray diffraction,2.5,False
+3iv1, coiled-coil domain of tumor susceptibility gene 101,hydrolase,x-ray diffraction,2.5,False
+5obk," the fk1 domain of fkbp51 in complex with (1s,5s,6r)-10-((3,5- dichlorophenyl)sulfonyl)-5-(hydroxymethyl)-3-(pyridin-2-ylmethyl)-3, 10-diazabicyclo[4.3.1]decan-2-one",isomerase,x-ray diffraction,1.0,False
+6q85, structure of fucosylated d-antimicrobial peptide sb11 in complex with the fucose-binding lectin pa-iil at 1.990 angstrom resolution,antibiotic,x-ray diffraction,1.99,False
+1z9g, crystal structure analysis of thermolysin complexed with the inhibitor (r)-retro-thiorphan,hydrolase,x-ray diffraction,1.7,False
+1rdv," rubredoxin from desulfovibrio vulgaris miyazaki f, trigonal crystal form",electron transfer,x-ray diffraction,2.0,False
+2akf, crystal structure of the coiled-coil domain of coronin 1,protein binding,x-ray diffraction,1.2,False
+285d, x-ray and solution studies of dna oligomers and implications for the structural basis of a-tract-dependent curvature,dna,x-ray diffraction,2.5,False
+3gjk," crystal structure of a dna duplex containing 7,8- dihydropyridol[2,3-d]pyrimidin-2-one",dna,x-ray diffraction,2.2,False
+1mjm, methionine aporepressor mutant (q44k) complexed to half of the consensus operator sequence,transcription/dna,x-ray diffraction,2.2,False
+3p95, human mesotrypsin complexed with bovine pancreatic trypsin inhibitor variant (bpti-k15r/r17d),hydrolase/hydrolase inhibitor,x-ray diffraction,1.3,False
+2b45, crystal structure of an engineered uninhibited bacillus subtilis xylanase in free state,hydrolase,x-ray diffraction,2.0,False
+2b8h, a/nws/whale/maine/1/84 (h1n9) reassortant influenza virus neuraminidase,hydrolase,x-ray diffraction,2.2,False
+1qi7," the crystal structure at 2.0 a of saporin so6, a ribosome inactivating protein from saponaria officinalis",hydrolase,x-ray diffraction,2.0,False
+1c7c, deoxy rhb1.1 (recombinant hemoglobin),oxygen storage/transport,x-ray diffraction,1.8,False
+4zp9, coxsackievirus b3 polymerase - f364i mutant,replication,x-ray diffraction,1.8,False
+1ioq, stabilization of hen egg white lysozyme by a cavity-filling mutation,hydrolase,x-ray diffraction,1.79,False
+1qso, histone acetyltransferase hpa2 from saccharomyces cerevisiae,transferase,x-ray diffraction,2.9,False
+5b5h, hydrophobic ice-binding site confer hyperactivity on antifreeze protein from a snow mold fungus,antifreeze protein,x-ray diffraction,1.0,False
+2a2t, crystal structure of d(aaatattt),dna,x-ray diffraction,3.1,False
+1xwv, structure of the house dust mite allergen der f 2: implications for function and molecular basis of ige cross- reactivity,allergen,x-ray diffraction,1.83,False
+1d11, interactions between an anthracycline antibiotic and dna molecular structure of daunomycin complexed to d(cpgptpapcpg) at 1.2-angstroms resolution,dna,x-ray diffraction,1.18,False
+1qdc, man(aplha1-6)man(alpha1-o)methyl concanavalin a complex,sugar binding protein,x-ray diffraction,2.0,False
+1ud3, crystal structure of amyk38 n289h mutant,hydrolase,x-ray diffraction,2.15,False
+3p7v, radiation damage study of thermolysin - 160k structure c (4.8 mgy),hydrolase,x-ray diffraction,2.2,False
+1h04, human cd55 domains 3 & 4,immune system protein,x-ray diffraction,2.0,False
+1ge2, crystal structure of mutant human lysozyme substituted at left-handed helical positions,hydrolase,x-ray diffraction,2.0,False
+3gny, crystal structure of human alpha-defensin 1 (hnp1),antimicrobial protein,x-ray diffraction,1.56,False
+4f5s, crystal structure of bovine serum albumin,transport protein,x-ray diffraction,2.47,False
+3uil, crystal structure of the complex of pgrp-s with lauric acid at 2.2 a resolution,immune system,x-ray diffraction,2.2,False
+6owm, horse liver f93w alcohol dehydrogenase complexed with nad and pentafluorobenzyl alcohol,oxidoreductase,x-ray diffraction,1.1,False
+6rr3, crystal structure of fad-containing ferredoxin-nadp reductase from brucella ovis,oxidoreductase,x-ray diffraction,1.69,False
+2hc7, 2'-selenium-t a-dna [g(tse)gtacac],dna,x-ray diffraction,1.4,False
+5ipw, oligopeptide-binding protein oppa,peptide binding protein,x-ray diffraction,2.6,False
+2vw5, structure of the hsp90 inhibitor 7-o-carbamoylpremacbecin bound to the n- terminus of yeast hsp90,chaperone,x-ray diffraction,1.9,False
+1vs3, crystal structure of the trna pseudouridine synthase trua from thermus thermophilus hb8,isomerase,x-ray diffraction,2.25,False
+1usk, l-leucine-binding protein with leucine bound,transport protein,x-ray diffraction,2.0,False
+4l05, cu/zn superoxide dismutase from brucella abortus,oxidoreductase,x-ray diffraction,1.1,False
+1cjp, concanavalin a complex with 4'-methylumbelliferyl-alpha-d- glucopyranoside,lectin,x-ray diffraction,2.78,False
+6pyw," crystal structure of hla-b*2705-w60a in complex with lrn, a self- peptide",immune system,x-ray diffraction,1.38,False
+3sli," leech intramolecular trans-sialidase complexed with 2,7- anhydro-neu5ac prepared by soaking with 3'-sialyllactose",hydrolase,x-ray diffraction,1.8,False
+1y45, t-to-t(high) quaternary transitions in human hemoglobin: betap36a deoxy low-salt (10 test sets),transport protein,x-ray diffraction,2.0,False
+4ldc, crystal structure of doc2b c2b domain,metal binding protein,x-ray diffraction,1.26,False
+3lxg, crystal structure of rat phosphodiesterase 10a in complex with ligand web-3,hydrolase,x-ray diffraction,2.3,False
+5gza, protein o-mannose kinase,transferase,x-ray diffraction,2.0,False
+1axn, the high resolution structure of annexin iii shows differences with annexin v,calcium/phospholipid-binding protein,x-ray diffraction,1.78,False
+1b5d, dcmp hydroxymethylase from t4 (intact),transferase,x-ray diffraction,2.2,False
+2pye, crystal structures of high affinity human t-cell receptors bound to pmhc revealnative diagonal binding geometry tcr clone c5c1 complexed with mhc,immune system,x-ray diffraction,2.3,False
+6b7w, structure of hen egg-white lysozyme pre-treated with high pressure (600 mpa) under isobaric condition,hydrolase,x-ray diffraction,1.48,False
+2owk, crystal structure of ph0725 from pyrococcus horikoshii ot3,transferase,x-ray diffraction,2.0,False
+1h1x, sperm whale myoglobin mutant t67r s92d,oxygen transport,x-ray diffraction,1.4,False
+4m43, crystal structure of anti-rabies glycoprotein fab 523-11,immune system,x-ray diffraction,1.85,False
+2zbh, crystal structure of the complex of phospholipase a2 with bavachalcone from aerva lanata at 2.6 a resolution,hydrolase,x-ray diffraction,2.6,False
+5fhr," crystal structure of y200l mutant of rat catechol-o-methyltransferase in complex with adomet and 3,5-dinitrocatechol",transferase,x-ray diffraction,1.63,False
+2wv8, complex of human dihydroorotate dehydrogenase with the inhibitor 221290,oxidoreductase,x-ray diffraction,1.9,False
+2hmz, the structures of met and azidomet hemerythrin at 1.66 angstroms resolution,oxygen transport,x-ray diffraction,1.66,False
+1for, structure determination of an fab fragment that neutralizes human rhinovirus and analysis of the fab-virus complex,immunoglobulin,x-ray diffraction,2.75,False
+1nwr, crystal structure of human cartilage gp39 (hc-gp39),signaling protein,x-ray diffraction,2.7,False
+2w5t, structure-based mechanism of lipoteichoic acid synthesis by staphylococcus aureus ltas.,transferase,x-ray diffraction,1.6,False
+1d3u, tata-binding protein/transcription factor (ii)b/bre+tata- box complex from pyrococcus woesei,gene regulation/dna,x-ray diffraction,2.4,False
+1iod, crystal structure of the complex between the coagulation factor x binding protein from snake venom and the gla domain of factor x,hydrolase/hydrolase inhibitor,x-ray diffraction,2.3,False
+1gsf, glutathione transferase a1-1 complexed with ethacrynic acid,transferase (glutathione),x-ray diffraction,2.7,False
+4k14, crystal structure of staphylococcal nuclease mutant v66i/v99l,hydrolase,x-ray diffraction,1.6,False
+5orl, crystal structure of aurora-a kinase in complex with an allosterically binding fragment,transferase,x-ray diffraction,1.69,False
+5d3a, kif21a regulatory coiled coil,motor protein,x-ray diffraction,2.5,False
+2oha, myoglobin cavity mutant f138w,oxygen storage/transport,x-ray diffraction,1.8,False
+1d7a, crystal structure of e. coli pure-mononucleotide complex.,lyase,x-ray diffraction,2.5,False
+1pg8," crystal structure of l-methionine alpha-, gamma-lyase",lyase,x-ray diffraction,2.68,False
+1bhj, crystal structure of apo-glycine n-methyltransferase (gnmt),methyltransferase,x-ray diffraction,2.5,False
+1x8r, epsps liganded with the (s)-phosphonate analog of the tetrahedral reaction intermediate,transferase,x-ray diffraction,1.5,False
+5m6y, cocrystal structure of camp-dependent protein kinase (pka) in complex with a methylisoquinoline fasudil-derivative,transferase,x-ray diffraction,1.37,False
+1mtc, glutathione transferase mutant y115f,transferase,x-ray diffraction,2.2,False
+2qu9, crystal structure of the complex of group ii phospholipase a2 with eugenol,hydrolase,x-ray diffraction,2.08,False
+1ycf, oxidized (di-ferric) fpra from moorella thermoacetica,oxidoreductase,x-ray diffraction,3.0,False
+1gnn, hiv-1 protease mutant with val 82 replaced by asn (v82n) complexed with u89360e (inhibitor),hydrolase (acid protease),x-ray diffraction,2.3,False
+1flp, structure of the sulfide-reactive hemoglobin from the clam lucina pectinata: crystallographic analysis at 1.5 angstroms resolution,oxygen transport,x-ray diffraction,1.5,False
+4j58, human cyclophilin d complexed with an inhibitor,isomerase/isomerase inhibitor,x-ray diffraction,1.28,False
+4jfo, a2 hla complex with e1a heteroclitic variant of melanoma peptide,immune system,x-ray diffraction,2.11,False
+1qa0, bovine trypsin 2-aminobenzimidazole complex,hydrolase,x-ray diffraction,1.8,False
+4fnd, crystal structure of the mtb enoyl coa isomerase in complex with hydroxyhexanoyl coa,isomerase,x-ray diffraction,1.85,False
+5zjl, crystal structure of the dust mite allergen der f 23 from dermatophagoides farinae,allergen,x-ray diffraction,1.7,False
+5p8d, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 346,hydrolase,x-ray diffraction,1.18,False
+2d55," structural, physical and biological characteristics of rna.dna binding agent n8-actinomycin d",dna/antibiotic,x-ray diffraction,3.0,False
+4buq, crystal structure of wild type fimh lectin domain in complex with heptyl alpha-d-mannopyrannoside,cell adhesion,x-ray diffraction,2.2,False
+2iu7, site directed mutagenesis of key residues involved in the catalytic mechanism of cyanase,lyase,x-ray diffraction,1.91,False
+1l6b, crystal structure analysis of the all dna holliday junction structure of ccggtacm5cgg,dna,x-ray diffraction,1.5,False
+2uuy, structure of a tick tryptase inhibitor in complex with bovine trypsin,hydrolase,x-ray diffraction,1.15,False
+5xmq, plasmodium vivax shmt(c346a) bound with plp-glycine and mf011,transferase/transferase inhibitor,x-ray diffraction,2.2,False
+2imf, 2-hydroxychromene-2-carboxylate isomerase: a kappa class glutathione- s-transferase from pseudomonas putida,transferase,x-ray diffraction,1.3,False
+4qkk, crystal structure of an oligonucleotide containing 5-formylcytosine,dna,x-ray diffraction,1.4,False
+7msi, type iii antifreeze protein isoform hplc 12,antifreeze,x-ray diffraction,1.7,False
+5g3e, preserving metallic sites affected by radiation damage the cut2 case in thermus thermophilus multicopper oxidase,oxidoreductase,x-ray diffraction,1.78,False
+2lbp, structure of the l-leucine-binding protein refined at 2.4 angstroms resolution and comparison with the leu(slash) ile(slash)val-binding protein structure,periplasmic binding protein,x-ray diffraction,2.4,False
+1r68, role of the amino sugar in dna binding of disaccharide anthracyclines: crystal structure of mar70/d(cgatcg) complex,dna,x-ray diffraction,1.2,False
+1gdk, crystal structure of ferric complexes of the yellow lupin leghemoglobin with isoquinoline at 1.8 angstroms resolution (russian),oxygen transport,x-ray diffraction,1.8,False
+2w7h, crystal structure of y51fbsshmt obtained in the presence of gly and 5-formyl tetrahydrofolate,transferase,x-ray diffraction,1.67,False
+1qhy, chloramphenicol phosphotransferase from streptomyces venezuelae in complex with atpgammas and chloramphenicol,transferase,x-ray diffraction,2.6,False
+7aat, x-ray structure refinement and comparison of three forms of mitochondrial aspartate aminotransferase,transferase(aminotransferase),x-ray diffraction,1.9,False
+1aov, apo duck ovotransferrin,transferrin,x-ray diffraction,4.0,False
+3mfl," axial ligand swapping in double mutant maintains intradiol-cleavage chemistry in protocatechuate 3,4-dioxygenase",oxidoreductase,x-ray diffraction,1.78,False
+2zgy, parm with gdp,structural protein,x-ray diffraction,1.9,False
+1po6, crystal structure of up1 complexed with d(tagg(6mi)ttaggg): a human telomeric repeat containing 6-methyl-8-(2-deoxy- beta-ribofuranosyl)isoxanthopteridine (6mi),rna binding protein/dna,x-ray diffraction,2.1,False
+4nlq, poliovirus polymerase - c290f loop mutant,"viral protein, hydrolase",x-ray diffraction,2.3,False
+4er2, the active site of aspartic proteinases,hydrolase/hydrolase inhibitor,x-ray diffraction,2.0,False
+5rnt," x-ray analysis of cubic crystals of the complex formed between ribonuclease t1 and guanosine-3',5'-bisphosphate",hydrolase(endoribonuclease),x-ray diffraction,3.2,False
+1v5g," crystal structure of the reaction intermediate between pyruvate oxidase containing fad and tpp, and substrate pyruvate",oxidoreductase,x-ray diffraction,1.96,False
+1ecd, structure of erythrocruorin in different ligand states refined at 1.4 angstroms resolution,oxygen transport,x-ray diffraction,1.4,False
+1tf4, endo/exocellulase from thermomonospora,glycosyl hydrolase,x-ray diffraction,1.9,False
+4oyt, crystal structure of ternary complex of plasmodium vivax shmt with d- serine and folinic acid,transferase,x-ray diffraction,2.4,False
+6jep, structure of a neutralizing antibody bound to the zika envelope protein domain iii,antiviral protein,x-ray diffraction,2.32,False
+5lwd, thermolysin in complex with inhibitor (jc96),hydrolase,x-ray diffraction,1.23,False
+4jh0," crystal structure of dipeptidyl-peptidase 4 (cd26, adenosine deaminase complexing protein 2) (dpp-iv-wt) complex with bms-767778 aka 2-(3- (aminomethyl)-4-(2,4- dichlorophenyl)-2-methyl-5-oxo-5,7-dihydro-6h- pyrrolo[3,4- b]pyridin-6-yl)-n,n-dimethylacetamide",hydrolase,x-ray diffraction,2.35,False
+4jh2, crystal structure of fosb from bacillus cereus with zinc and sulfate at 1.27 a resolution,transferase,x-ray diffraction,1.27,False
+4zls," hiv-1 wild type protease with grl-096-13a (a boc-derivative p2-ligand, 3,-5-dimethylbiphenyl p1-ligand)",hydrolase/hydrolase inhibitor,x-ray diffraction,1.53,False
+1fdi, oxidized form of formate dehydrogenase h from e. coli complexed with the inhibitor nitrite,oxidoreductase,x-ray diffraction,2.9,False
+5uld, structure and function of the divalent anion/na+ symporter from vibrio cholerae and a humanized variant,transport protein,x-ray diffraction,2.78,False
+4atj, distal heme pocket mutant (h42e) of recombinant horseradish peroxidase in complex with benzhydroxamic acid,oxidoreductase,x-ray diffraction,2.5,False
+3fek, crystal structure of the r132k:y134f:r111l:l121d:t54v mutant of cellular retinoic acid-binding protein ii at 1.51 angstrom resolution,transport protein,x-ray diffraction,1.51,False
+3h0o," the importance of ch-pi stacking interactions between carbohydrate and aromatic residues in truncated fibrobacter succinogenes 1,3-1,4-beta-d-glucanase",hydrolase,x-ray diffraction,1.4,False
+2mei, contribution of hydrophobic effect to the conformational stability of human lysozyme,hydrolase,x-ray diffraction,1.8,False
+4z4b, 2-pyridyl hoechst - a new generation dna-binding radioprotector,dna,x-ray diffraction,1.97,False
+3qhc," crystal structure of symerythrin from cyanophora paradoxa, reduced with dithionite",oxidoreductase,x-ray diffraction,1.25,False
+2zc1, organophosphorus hydrolase from deinococcus radiodurans,hydrolase,x-ray diffraction,1.9,False
+1igm, three dimensional structure of an fv from a human igm immunoglobulin,immunoglobulin,x-ray diffraction,2.3,False
+2civ, chloroperoxidase bromide complex,oxidoreductase,x-ray diffraction,1.8,False
+1g2u," the structure of the mutant, a172v, of 3-isopropylmalate dehydrogenase from thermus thermophilus hb8 : its thermostability and structure.",oxidoreductase,x-ray diffraction,2.1,False
+1m4w," thermophilic b-1,4-xylanase from nonomuraea flexuosa",hydrolase,x-ray diffraction,2.1,False
+1aok, vipoxin complex,hydrolase,x-ray diffraction,2.0,False
+1sos," atomic structures of wild-type and thermostable mutant recombinant human cu, zn superoxide dismutase",oxidoreductase (superoxide acceptor),x-ray diffraction,2.5,False
+6rhp, single crystal serial study of the x-ray induced enzymatic reduction of molecular oxygen to water for laccase from steccherinum murashkinskyi at sub-atomic resolution. twenty first structure of the series with 4415 kgy dose (collected after refreezing).,oxidoreductase,x-ray diffraction,1.6,False
+3ll2, monomeric griffithsin in complex with a high-mannose branched carbohydrate,sugar binding protein,x-ray diffraction,0.97,False
+1gnm, hiv-1 protease mutant with val 82 replaced by asp (v82d) complexed with u89360e (inhibitor),hydrolase (acid protease),x-ray diffraction,2.3,False
+4kdn, crystal structure of the hemagglutinin of ferret-transmissible h5n1 virus in complex with avian receptor analog lsta,viral protein,x-ray diffraction,2.48,False
+5kgr, spin-labeled t4 lysozyme construct i9v1/v131v1 (30 days),hydrolase,x-ray diffraction,1.47,False
+4mny, crystal structure of urokinase-type plasminogen activator (upa) complexed with bicyclic peptide uk903,hydrolase/hydrolase inhibitor,x-ray diffraction,1.7,False
+2vn7, glycoside hydrolase family 15 glucoamylase from hypocrea jecorina,hydrolase,x-ray diffraction,1.9,False
+5p22, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 120,hydrolase,x-ray diffraction,1.31,False
+1hkk, high resoultion crystal structure of human chitinase in complex with allosamidin,hydrolase,x-ray diffraction,1.85,False
+2q33, crystal structure of all-d monellin at 1.8 a resolution,de novo protein,x-ray diffraction,1.8,False
+2xuw, crystal structure of apolaccase from thermus thermophilus hb27,oxidoreductase,x-ray diffraction,1.7,False
+3tbj, the 1.7a crystal structure of actibind a t2 ribonucleases as antitumorigenic agents,hydrolase,x-ray diffraction,1.8,False
+5l8s, the crystal structure of a cold-adapted acylaminoacyl peptidase reveals a novel quaternary architecture based on the arm-exchange mechanism,hydrolase,x-ray diffraction,2.5,False
+4ym4, truncated human tifa in complex with its thr9 phosphorylated n- terminal peptide 1-15,signaling protein,x-ray diffraction,3.12,False
+1zyx, crystal structure of the complex of a group iia phospholipase a2 with a synthetic anti-inflammatory agent licofelone at 1.9a resolution,hydrolase,x-ray diffraction,1.95,False
+5arb, cooperative bio-metallic selectivity in a tailored protease enables creation of a c-c cross-coupling heckase,hydrolase,x-ray diffraction,1.15,False
+2j18, chloroperoxidase mixture of ferric and ferrous states (low dose data set),oxidoreductase,x-ray diffraction,1.75,False
+3vdq, crystal structure of alcaligenes faecalis d-3-hydroxybutyrate dehydrogenase in complex with nad(+) and acetate,oxidoreductase,x-ray diffraction,2.2,False
+1yya," crystal structure of tt0473, putative triosephosphate isomerase from thermus thermophilus hb8",isomerase,x-ray diffraction,1.6,False
+4u64, structure of the periplasmic output domain of the legionella pneumophila lapd ortholog cdgs9 in the apo state,transferase,x-ray diffraction,2.14,False
+5yc6, the crystal structure of upa in complex with 4-bromobenzylamirne at ph4.6,hydrolase/hydrolase inhibitor,x-ray diffraction,1.18,False
+3eii, zinc-bound glycoside hydrolase 61 e from thielavia terrestris,unknown function,x-ray diffraction,2.25,False
+2uum," crystal structure of c-phycocyanin from phormidium, lyngbya spp. (marine) and spirulina sp. (fresh water) shows two different ways of energy transfer between two hexamers.",electron transport,x-ray diffraction,3.0,False
+5mdh, crystal structure of ternary complex of porcine cytoplasmic malate dehydrogenase alpha-ketomalonate and tnad at 2.4 angstroms resolution,oxidoreductase,x-ray diffraction,2.4,False
+1une," carboxylic ester hydrolase, 1.5 angstrom orthorhombic form of the bovine recombinant pla2",hydrolase,x-ray diffraction,1.5,False
+2z6u," ternary structure of the glu119ala m.hhai, c5-cytosine dna methyltransferase, with unmodified dna and adohcy",transferase/dna,x-ray diffraction,2.72,False
+4zqy, ringhalexin from hemachatus haemachatus: a novel inhibitor of extrinsic tenase complex,toxin,x-ray diffraction,2.95,False
+2h8q, crystal structure of a redshifted mutant (k83m) of the red fluorescent protein drfp583/dsred,luminescent protein,x-ray diffraction,2.0,False
+2hef, contribution of water molecules in the interior of a protein to the conformational stability,hydrolase,x-ray diffraction,1.8,False
+6tyo, salmonella typhi pltb homopentamer with neu-5nac-4oac-alpha-2-3-gal- beta-1-4-glcnac glycans,toxin,x-ray diffraction,2.04,False
+1x10," structure of mutant pyrrolidone carboxyl peptidase (e192a) from a hyperthermophile, pyrococcus furiosus",hydrolase,x-ray diffraction,2.0,False
+3edn," crystal structure of the bacillus anthracis phenazine biosynthesis protein, phzf family",biosynthetic protein,x-ray diffraction,1.5,False
+4hww, crystal structure of human arginase-1 complexed with inhibitor 9,hydrolase/hydrolase inhibitor,x-ray diffraction,1.3,False
+4clb, n-terminal bromodomain of human brd4 with ibet-295,transcription,x-ray diffraction,1.6,False
+1lm3, a multi-generation analysis of cytochrome b562 redox variants: evolutionary strategies for modulating redox potential revealed using a library approach,electron transport,x-ray diffraction,2.7,False
+5p0o, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 71,hydrolase,x-ray diffraction,1.33,False
+5czm, crystal structure of a mutated catalytic domain of human mmp12 in complex with rxp470,hydrolase,x-ray diffraction,1.3,False
+4mxl, x-ray structure of znpfebmb1,oxygen transport,x-ray diffraction,1.5,False
+4k4r, tl-3 inhibited trp6ala hiv protease with 1-bromo-2-napthoic acid bound in exosite,hydrolase/hydrolase inhibitor,x-ray diffraction,1.8,False
+3ukq, crystal structure of r327k udp-galactopyranose mutase from aspergillus fumigatus in complex with udpgalp,isomerase,x-ray diffraction,3.15,False
+4aba, fragments bound to bovine trypsin for the sampl challenge,hydrolase,x-ray diffraction,1.25,False
+2wpl," factor ixa superactive triple mutant, edta-soaked",blood clotting,x-ray diffraction,1.82,False
+3m6h, crystal structure of post-isomerized ertapenem covalent adduct with tb b-lactamase,hydrolase/antibiotic,x-ray diffraction,1.99,False
+2z7u," crystal structure of h2o2 treated cu,zn-sod",oxidoreductase,x-ray diffraction,2.1,False
+3ai2, the crystal structure of l-sorbose reductase from gluconobacter frateurii complexed with nadph,oxidoreductase,x-ray diffraction,1.9,False
+6foe, baxb01 fab fragment,immune system,x-ray diffraction,2.6,False
+1y31, t-to-t(high) quaternary transitions in human hemoglobin: betay35a deoxy low-salt (1 test set),transport protein,x-ray diffraction,2.13,False
+5kxr," hen egg white lysozyme at 278k, data set 3",isomerase,x-ray diffraction,1.2,False
+237l, the response of t4 lysozyme to large-to-small substitutions within the core and its relation to the hydrophobic effect,hydrolase,x-ray diffraction,1.7,False
+2yvn, crystal structure of ndx2 from thermus thermophilus hb8,hydrolase,x-ray diffraction,1.84,False
+1k6m," crystal structure of human liver 6-phosphofructo-2-kinase/fructose-2, 6-bisphosphatase","transferase, hydrolase",x-ray diffraction,2.4,False
+6gds, holliday junctions formed from telomeric dna,recombination,x-ray diffraction,2.95,False
+1g9y, homing endonuclease i-crei / dna substrate complex with calcium,hydrolase/dna,x-ray diffraction,2.05,False
+3cqs," a 3'-oh, 2',5'-phosphodiester substitution in the hairpin ribozyme active site reveals similarities with protein ribonucleases",rna,x-ray diffraction,2.8,False
+1ibd," x-ray 3d structure of p.leiognathi cu,zn sod mutant v29a",oxidoreductase,x-ray diffraction,2.0,False
+1zir, deuterated gammae crystallin in h2o solvent,structural protein,x-ray diffraction,1.36,False
+1ebw, hiv-1 protease in complex with the inhibitor bea322,hydrolase/hydrolase inhibitor,x-ray diffraction,1.81,False
+3ly3, crystal structure of fluorophore-labeled class a beta-lactamase penp,hydrolase,x-ray diffraction,1.8,False
+2a70," crystal structure of emp47p carbohydrate recognition domain (crd), monoclinic crystal form 2",sugar binding protein,x-ray diffraction,1.1,False
+466d, disorder and twin refinement of rna heptamer double helix,rna,x-ray diffraction,1.16,False
+1lyo, cross-linked lysozyme crystal in neat water,hydrolase,x-ray diffraction,1.93,False
+4l2d, x-ray structure of the fe(ii) form of the iron superoxide dismutase from pseudoalteromonas haloplanktis,oxidoreductase,x-ray diffraction,2.07,False
+1mf4, structure-based design of potent and selective inhibitors of phospholipase a2: crystal structure of the complex formed between phosholipase a2 from naja naja sagittifera and a designed peptide inhibitor at 1.9 a resolution,hydrolase/hydrolase inhibitor,x-ray diffraction,1.9,False
+2xpg, crystal structure of a mhc class i-peptide complex,immune system,x-ray diffraction,2.6,False
+5i3c, crystal structure of e.coli purine nucleoside phosphorylase with acycloguanosine,transferase,x-ray diffraction,2.32,False
+2ffz, structural studies examining the substrate specificity profiles of pc- plcbc protein variants,hydrolase,x-ray diffraction,2.05,False
+1etz," the three-dimensional structure of an anti-sweetener fab, nc10.14, shows the extent of structural diversity in antigen recognition by immunoglobulins",immune system,x-ray diffraction,2.6,False
+1sdi, 1.65 a structure of escherichia coli ycfc gene product,"structural genomics, unknown function",x-ray diffraction,1.65,False
+1b3a, total chemical synthesis and high-resolution crystal structure of the potent anti-hiv protein aop-rantes,anti-hiv protein,x-ray diffraction,1.6,False
+2rfw, crystal structure of cellobiohydrolase from melanocarpus albomyces,hydrolase,x-ray diffraction,1.6,False
+4wo2, crystal structure of human native ckit proto-oncogene promoter quadruplex dna,dna,x-ray diffraction,1.82,False
+2vfw, rv1086 native,transferase,x-ray diffraction,2.3,False
+3ey0, a new form of dna-drug interaction in the minor groove of a coiled coil,dna,x-ray diffraction,2.52,False
+3vw5, crystal structure of sugar epimerase from ruminal bacterium,isomerase,x-ray diffraction,2.6,False
+1mzz, crystal structure of mutant (m182t)of nitrite reductase,oxidoreductase,x-ray diffraction,2.0,False
+3hsw," crystal structure of porcine pancreatic phospholipase a2 in complex with 2-methoxycyclohexa-2-5-diene-1,4-dione",hydrolase,x-ray diffraction,2.5,False
+2xjq, x-ray structure of the n-terminal domain of the flocculin flo5 from saccharomyces cerevisiae,cell adhesion,x-ray diffraction,1.35,False
+5ldh, structure of the active ternary complex of pig heart lactate dehydrogenase with s-lac-nad at 2.7 angstroms resolution,oxidoreductase,x-ray diffraction,2.7,False
+5y23, x-ray crystal structure of pseudoazurin met16phe variant,electron transport,x-ray diffraction,1.4,False
+2ri8," penicillium citrinum alpha-1,2-mannosidase complex with glycerol",hydrolase,x-ray diffraction,2.16,False
+4zx1, engineered carbonic anhydrase ix mimic in complex with a glucosyl sulfamate inhibitor,lyase/lyase inhibitor,x-ray diffraction,1.5,False
+1ulc, cgl2 in complex with lactose,sugar binding protein,x-ray diffraction,2.6,False
+4dpa, the 1.05 angstrom crystal structure of reduced (cui) poplar plastocyanin a at ph 6.0,electron transport,x-ray diffraction,1.05,False
+4flq, crystal structure of amylosucrase double mutant a289p-f290i from neisseria polysaccharea.,transferase,x-ray diffraction,2.5,False
+2j44, alpha-glucan binding by a streptococcal virulence factor,carbohydrate-binding module,x-ray diffraction,2.1,False
+4jl7, crystal structure of the chemokine receptor cxcr2 in complex with the first pdz domain of nherf1,signaling protein,x-ray diffraction,1.16,False
+2pka," refined 2 angstroms x-ray crystal structure of porcine pancreatic kallikrein a, a specific trypsin-like serine proteinase. crystallization, structure determination, crystallographic refinement, structure and its comparison with bovine trypsin",serine proteinase,x-ray diffraction,2.05,False
+4oyq, (6-isothiocyanatohexyl)benzene inhibitor complexed with macrophage migration inhibitory factor,isomerase/isomerase inhibitor,x-ray diffraction,1.7,False
+1pcv," crystal structure of osmotin, a plant antifungal protein",antifungal protein,x-ray diffraction,2.3,False
+1l32, replacements of pro86 in phage t4 lysozyme extend an alpha-helix but do not alter protein stability,hydrolase (o-glycosyl),x-ray diffraction,1.7,False
+3gky, the structural basis of an er stress-associated bottleneck in a protein folding landscape,hormone,x-ray diffraction,1.8,False
+5hwa, crystal structure of mh-k1 chitosanase in substrate-bound form,hydrolase,x-ray diffraction,1.35,False
+1ytb, crystal structure of a yeast tbp/tata-box complex,transcription/dna,x-ray diffraction,1.8,False
+1awi, human platelet profilin complexed with the l-pro10 peptide,complex (actin-binding protein/peptide),x-ray diffraction,2.2,False
+4uog, crystallographic structure of nucleoside diphosphate kinase from litopenaeus vannamei complexed with dcdp,transferase,x-ray diffraction,2.3,False
+2zh9, complex structure of afcca with trnaminidu,transferase/rna,x-ray diffraction,2.9,False
+2nst, crystal structure of pectin methylesterase d178a mutant in complex with hexasaccharide ii,hydrolase,x-ray diffraction,1.7,False
+5txd, structure of amyloid-beta derived peptide - nkgaif,de novo protein,x-ray diffraction,1.45,False
+1o2e," structure of the triple mutant (k53,56,120m) + anisic acid complex of phospholipase a2",hydrolase,x-ray diffraction,2.6,False
+4c67, discovery of epigenetic regulator i-bet762: lead optimization to afford a clinical candidate inhibitor of the bet bromodomains,cell cycle,x-ray diffraction,1.55,False
+2scp, structure of a sarcoplasmic calcium-binding protein from nereis diversicolor refined at 2.0 angstroms resolution,binding protein,x-ray diffraction,2.0,False
+3sd8, crystal structure of ara-fhna decamer dna,dna,x-ray diffraction,1.67,False
+2v35, porcine pancreatic elastase in complex with inhibitor jm54,hydrolase,x-ray diffraction,1.67,False
+1cg8, co form hemoglobin from dasyatis akajei,oxygen transport,x-ray diffraction,1.9,False
+4q3n," crystal structure of mgs-m5, a lactate dehydrogenase enzyme from a medee basin deep-sea metagenome library",hydrolase,x-ray diffraction,1.97,False
+5eys, crystal structure of murine neuroglobin mutant f106w at ambient pressure,transport protein,x-ray diffraction,1.75,False
+1rms," crystal structures of ribonuclease ms complexed with 3'-guanylic acid a gp*c analogue, 2'-deoxy-2'-fluoroguanylyl-3',5'-cytidine",hydrolase(endoribonuclease),x-ray diffraction,1.9,False
+1mvq, cratylia mollis lectin (isoform 1) in complex with methyl-alpha-d- mannose,sugar binding protein,x-ray diffraction,1.77,False
+3o4m," crystal structure of porcine pancreatic phospholipase a2 in complex with 1,2-dihydroxybenzene",hydrolase/hydrolase inhibitor,x-ray diffraction,2.5,False
+1dkn, crystal structure of escherichia coli phytase at ph 5.0 with hg2+ cation acting as an intermolecular bridge,hydrolase,x-ray diffraction,2.4,False
+5fbb, s1 nuclease from aspergillus oryzae in complex with phosphate and adenosine 5'-monophosphate,hydrolase,x-ray diffraction,1.75,False
+5yb1, structure and function of human serum albumin-metal agent complex,lipid binding protein,x-ray diffraction,2.62,False
+3hpq," crystal structure of wild-type adenylate kinase from e. coli, in complex with ap5a",transferase,x-ray diffraction,2.0,False
+5p0b, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 58,hydrolase,x-ray diffraction,1.63,False
+6afm," crystal structure of class a b-lactamase, penl, variant cys69tyr, from burkholderia thailandensis",hydrolase,x-ray diffraction,1.3,False
+4xn2, crystal structure of met260ala mutant of e. coli aminopeptidase n in complex with l-leucine,hydrolase,x-ray diffraction,2.11,False
+1twi, crystal structure of diaminopimelate decarboxylase from m. jannaschii in co-complex with l-lysine,lyase,x-ray diffraction,2.0,False
+6b55, crystal structure of the plant defensin nad1 complexed with phosphatidic acid,antimicrobial protein,x-ray diffraction,2.5,False
+3qm6," blackfin tuna deoxy-myoglobin, atomic resolution",transport protein,x-ray diffraction,0.91,False
+1egk, crystal structure of a nucleic acid four-way junction,dna-rna hybrid,x-ray diffraction,3.1,False
+3eeo, m. hhai co-crystallized with synthetic dsdna containing a propane diol in place of the deoxycytidine residue targeted for methylation.,transferase/dna,x-ray diffraction,1.94,False
+4ltf, dehydration/rehydration of a nucleic acid system containing a polypyridyl ruthenium complex at 97% relative humidity(1/7),dna,x-ray diffraction,1.5,False
+2vib, crystal structure of s172absshmt obtained in the presence of l-allo-thr,transferase,x-ray diffraction,1.85,False
+5yob, crystal structure of flavodoxin without engineered disulfide bond,electron transport,x-ray diffraction,1.14,False
+4ax6, hypocrea jecorina cel6a d221a mutant soaked with 6-chloro-4-phenylumbelliferyl-beta-cellobioside,hydrolase,x-ray diffraction,2.3,False
+4plr, crystal structures of designed armadillo repeat proteins: implications of construct design and crystallization conditions on overall structure.,peptide binding protein,x-ray diffraction,2.1,False
+3sga, structures of product and inhibitor complexes of streptomyces griseus protease a at 1.8 angstroms resolution. a model for serine protease catalysis,hydrolase/hydrolase inhibitor,x-ray diffraction,1.8,False
+2imm, refined crystal structure of a recombinant immunoglobulin domain and a complementarity-determining region 1-grafted mutant,immunoglobulin,x-ray diffraction,2.0,False
+1zu8, crystal structure of the goat signalling protein with a bound trisaccharide reveals that trp78 reduces the carbohydrate binding site to half,signaling protein,x-ray diffraction,3.05,False
+2po5, crystal structure of human ferrochelatase mutant with his 263 replaced by cys,lyase,x-ray diffraction,2.2,False
+2d94, the conformation of the dna double helix in the crystal is dependent on its environment,dna,x-ray diffraction,1.7,False
+1av2," gramicidin a/cscl complex, active as a dimer",antibiotic,x-ray diffraction,1.4,False
+1enr, co-crystals of demetallized concanavalin a with zinc and calcium having a zinc ion bound in the s1 site and a calcium ion bound in the s2 site,plant lectin (agglutinin),x-ray diffraction,1.83,False
+1dic," structure of 3,4-dichloroisocoumarin-inhibited factor d",serine protease,x-ray diffraction,1.8,False
+2hck, src family kinase hck-quercetin complex,transferase,x-ray diffraction,3.0,False
+1grr, chloramphenicol phosphotransferase in complex with 2-nac-chloramphenicol from streptomyces venezuelae,transferase,x-ray diffraction,2.9,False
+2x90, crystal structure of ance-enalaprilat complex,hydrolase,x-ray diffraction,1.98,False
+2cth, cytochrome c3 from desulfovibrio vulgaris hildenborough,electron transport,x-ray diffraction,1.67,False
+2bkb, q69e-fesod,oxidoreductase,x-ray diffraction,1.7,False
+1evp, crystal structure of the chimerical decamer d(ccactagtg)r(g),dna-rna hybrid,x-ray diffraction,1.8,False
+4y0y, trypsin in complex with with bpti,hydrolase\inhibitor,x-ray diffraction,1.25,False
+1d98, the structure of an oligo(da).oligo(dt) tract and its biological implications,dna,x-ray diffraction,2.5,False
+6bdd, crystal structure of fe(ii) unliganded h-nox protein from k. algicida,signaling protein,x-ray diffraction,1.9,False
+1s4s," reaction intermediate in the photocycle of pyp, intermediate occupied between 100 micro-seconds to 5 milli-seconds",photosynthesis,x-ray diffraction,1.9,False
+1d1i, mutated shiga-like toxin b subunit (w34a) complexed with receptor gb3 analogue,toxin,x-ray diffraction,1.7,False
+1tdv, non-specific binding to phospholipase a2:crystal structure of the complex of pla2 with a designed peptide tyr-trp-ala- ala-ala-ala at 1.7a resolution,hydrolase,x-ray diffraction,1.7,False
+4jgm, crystal structure of relb double mutants: y300f/i335v,transcription,x-ray diffraction,3.0,False
+3oz4, r-methyl carbocyclic lna,dna,x-ray diffraction,1.59,False
+6opy," hiv-1 protease nl4-3 i13v, g16e, v32i, l33f, k45i, m46i, a71v, l76v, v82f, i84v mutant in complex with darunavir",hydrolase/hydrolase inhibitor,x-ray diffraction,2.13,False
+1yfw," crystal structure of 3-hydroxyanthranilate-3,4-dioxygenase from ralstonia metallidurans complexed with 4-chloro-3-hydroxyanthranilic acid and o2",oxidoreductase,x-ray diffraction,2.0,False
+3n8y, structure of aspirin acetylated cyclooxygenase-1 in complex with diclofenac,oxidoreductase,x-ray diffraction,2.6,False
+4msb, rna 10mer duplex with two 2'-5'-linkages,rna,x-ray diffraction,1.55,False
+4zio, irradiated state of mcherry143azf,fluorescent protein,x-ray diffraction,2.0,False
+4y1h, crystal structure of k33 linked tri-ubiquitin,signaling protein,x-ray diffraction,1.4,False
+1aid, structure of a non-peptide inhibitor complexed with hiv-1 protease: developing a cycle of structure-based drug design,hydrolase,x-ray diffraction,2.2,False
+4dxu, crystal structure of c-lobe of bovine lactoferrin complexed with aminocaproic acid at 1.46 a resolution,metal binding protein,x-ray diffraction,1.46,False
+4w8p, crystal structure of riam tbs1 in complex with talin r7r8 domains,peptide binding protein,x-ray diffraction,1.5,False
+6jp7, human antibody 32d6 fab in complex with peg,viral protein/immune system,x-ray diffraction,1.91,False
+1jwr, crystal structure of human lysozyme at 100 k,hydrolase,x-ray diffraction,1.4,False
+4qkc, influenza a m2 wild type tm domain at low ph in the lipidic cubic phase under cryo diffraction conditions,viral protein,x-ray diffraction,1.1,False
+1a7v, cytochrome c' from rhodopseudomonas palustris,electron transport,x-ray diffraction,2.3,False
+1db5, human s-pla2 in complex with indole 6,hydrolase/hydrolase inhibitor,x-ray diffraction,2.8,False
+5ozw, automated refinement of diffraction data obtained from an endothiapepsin crystal treated with fragment 43,hydrolase,x-ray diffraction,1.54,False
+5ff1, two way mode of binding of antithyroid drug methimazole to mammalian heme peroxidases: structure of the complex of lactoperoxidase with methimazole at 1.97 angstrom resolution,oxidoreductase,x-ray diffraction,1.97,False
+6hb9, crystal structure of the gabarap in complex with the uba5 lir motif,signaling protein,x-ray diffraction,1.3,False
+3vfb, crystal structure of hiv-1 protease mutant n88d with novel p1'-ligands grl-02031,hydrolase/hydrolase inhibitor,x-ray diffraction,1.55,False
+6dja, zn-dependent 5/b/6 metallo-beta-lactamase from bacillus cereus,hydrolase,x-ray diffraction,2.48,False
+6a10, crystal structure of hen egg white lysozyme crystallized by ammonium sulfate,hydrolase,x-ray diffraction,1.13,False
+3fca, genetic incorporation of a metal-ion chelating amino acid into proteins as biophysical probe,transferase,x-ray diffraction,2.15,False
+4tmr," crystal structure of ternary complex of plasmodium vivax shmt with glycine and a novel pyrazolopyran 99s: methyl 5-{3-[(4s)-6-amino-5- cyano-3-methyl-4-(propan-2-yl)-2,4-dihydropyrano[2,3-c]pyrazol-4-yl]- 5-cyanophenyl}thiophene-2-carboxylate .",transferase/transferase inhibitor,x-ray diffraction,2.7,False
+6igu, crystal structure of the hydrolytic antibody fab 9c10,immune system,x-ray diffraction,2.11,False
+1zzm," crystal structure of yjjv, tatd homolog from escherichia coli k12, at 1.8 a resolution","structural genomics, unknown function",x-ray diffraction,1.8,False
+6nzs, dextranase aodex kq11,hydrolase,x-ray diffraction,1.4,False
+1dtz, structure of camel apo-lactoferrin demonstrates its dual role in sequestering and transporting ferric ions simultaneously:crystal structure of camel apo-lactoferrin at 2.6a resolution.,metal transport,x-ray diffraction,2.65,False
+1jxj, role of mobile loop in the mechanism of human salivary amylase,hydrolase,x-ray diffraction,1.99,False
+4xne, crystal structure of erk2 in complex with an inhibitor,transferase,x-ray diffraction,1.8,False
+3lds, crystal structure of rb69 gp43 with dna and datp opposite 8-oxog,transferase/dna,x-ray diffraction,3.0,False
+3fvo," crystal structure of the human glutamate receptor, glur5, ligand- binding core in complex with 8-epi-neodysiherbaine a in space group p1",membrane protein,x-ray diffraction,1.5,False
+1y0c, t-to-thigh quaternary transitions in human hemoglobin: alphay140f deoxy low-salt,transport protein,x-ray diffraction,2.3,False
+6r6n," recombinantly produced kusta0087/kusta0088 complex, c32m/c101m mutant",electron transport,x-ray diffraction,2.0,False
+1lia, crystal structure of r-phycoerythrin from polysiphonia at 2.8 a resolution,light harvesting protein,x-ray diffraction,2.8,False
+5jdt, structure of spin-labelled t4 lysozyme mutant l118c-r1 at 100k,hydrolase,x-ray diffraction,1.0,False
+6gvr, tailspike protein mutant e372q (delta n471/s472) of e. coli bacteriophage hk620 in complex with pentasaccharide,viral protein,x-ray diffraction,1.85,False
+2gnw," crystal structure of non-symbiotic plant hemoglobin from rice, b10 mutant f40w",oxygen storage/transport,x-ray diffraction,2.4,False
+6f9y, lysozyme crystallized in presence of 10 mm lithium sulphate at ph 4.5,hydrolase,x-ray diffraction,1.2,False
+1dte, the structural origins of interfacial activation in thermomyces (humicola) lanuginosa lipase,hydrolase,x-ray diffraction,2.35,False
+1js2, crystal structure of c77s hipip: a serine ligated [4fe-4s] cluster,electron transport,x-ray diffraction,1.9,False
+1waf, dna polymerase from bacteriophage rb69,nucleotidyltransferase,x-ray diffraction,3.2,False
+1hmo, the structure of deoxy and oxy hemerythrin at 2.0 angstroms resolution,oxygen transport,x-ray diffraction,2.0,False
+2c3o, crystal structure of the free radical intermediate of pyruvate:ferredoxin oxidoreductase from desulfovibrio africanus,oxidoreductase,x-ray diffraction,2.7,False
+1qzm, alpha-domain of atpase,hydrolase,x-ray diffraction,1.9,False
+2qqt, crystal structure of the complex of bovine lactoperoxidase with acetyl salicylic acid at 2.5 a resolution,oxidoreductase,x-ray diffraction,2.5,False
+7fdr," 7-fe ferredoxin from azotobacter vinelandii, na dithionite reduced, ph 8.5, 1.4a resolution, 100 k",electron transport,x-ray diffraction,1.4,False
+2x82, evolutionary basis of hiv restriction by the antiretroviral trimcyp,viral protein,x-ray diffraction,2.6,False
+5uez, brd4_bd2_a-1342843,signaling protein/inhibitor,x-ray diffraction,1.51,False
+2hi2, crystal structure of native neisseria gonorrhoeae type iv pilin at 2.3 angstroms resolution,cell adhesion,x-ray diffraction,2.3,False
+1gzc, high-resolution crystal structure of erythrina cristagalli lectin in complex with lactose,sugar binding protein,x-ray diffraction,1.58,False
+4msw, y78 ester mutant of kcsa in high k+,transport protein,x-ray diffraction,2.06,False
+4bal, thaumatin from thaumatococcus daniellii structure in complex with the europium tris-hydroxymethyltriazoledipicolinate complex at 1.30 a resolution.,plant protein,x-ray diffraction,1.3,False
+4wji, crystal structure of cyclohexadienyl dehydrogenase from sinorhizobium meliloti in complex with nadp and tyrosine,oxidoreductase,x-ray diffraction,1.4,False
+1ufo, crystal structure of tt1662 from thermus thermophilus,hydrolase,x-ray diffraction,1.6,False
