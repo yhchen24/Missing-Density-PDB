@@ -33,7 +33,7 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 import getdata
 import PDB_Data_Processing
 
-# downloads sample dataset into your local machine
+# downloads sample dataset from our drive into your local machine
 getdata.get_samples()
 
 # names of PDB files to explore
@@ -46,6 +46,13 @@ pdb.extracted_features('small_sample/', protein_list)
 
 
 ## Installation
+
+The package is built with python. We recommend users use python 3.7 to run the package.
+
+0. Before install, make sure you have the latest version of conda:
+
+    `conda update --yes conda`
+
 1. Install Biopython on your local machine
 
     `conda install biopython`
