@@ -7,7 +7,7 @@ import pandas as pd
 from Bio.PDB.PDBParser import PDBParser
 from glob import glob
 
-import protein_properties
+import dataprocess.protein_properties
 
 
 def samples_statistics(directory):
@@ -168,7 +168,7 @@ def extracted_features(directory, protein_list):
     [res_data, headers] = extraction_residues_headers(directory, protein_list)
 
     # collect amino acid properties
-    properties = protein_properties.residue_groups(res_data)
+    properties = dataprocess.protein_properties.residue_groups(res_data)
 
     # merge the two dataframes
     merge = pd.concat([headers, properties], axis=1)
