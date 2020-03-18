@@ -26,14 +26,14 @@ Each component card describes what the component does, the inputs, the outputs, 
   * How it interacts with other components: Sends extracted features to the classification model (random forest) component. Sends extracted coordinates and features to the prediction model (neural network) component. Sends amino acid sequence and features to user interface.
 
 
-**Classification Model**
+**Classification Model (Random Forest)**
   * What it does: Classifies the reason behind missing densities in PDB files according to features extracted during data processing.
   * Inputs: Extracted features of interest from PDB files. (Features include B factor, sequence length, resolution, electrically charged, hydrophobic, nonpolar, and special case residues.)
   * Outputs: Reason behind missing densities in PDB files.
   * How it interacts with other components: Receives input from data processing component, and sends output to the user interface component.
 
 
-**Prediction Model**
+**Prediction Model (Neural Network)**
   * What it does: Predicts missing coordinates based on PDB training datasets and corresponding features/coordinates extracted from data processing.
   * Inputs: Extracted coordinates and features of interest from PDB files.(Features include B factor, sequence length, resolution, electrically charged, hydrophobic, nonpolar, special case residues, and coordinates.)
   * Outputs: Prediction of missing coordinates.
