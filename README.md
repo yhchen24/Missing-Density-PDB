@@ -25,23 +25,30 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 * Data processing of PDB files. Features available to extract in this module include: protein sequences to DataFrame, resolution of experiment, maximum anisotropic B factor in protein, and number of hydrophobic/nonpolar/electrically charged/special case residues
 * Prediction of missing residue coordinates.
 * A sample dataset is available for use in this package for users that are new to PDB files
-* See `functional_spec.py` and `component_spec.py` in the doc folder for more information on function and components. 
+* See `functional_spec.py` and `component_spec.py` in the doc folder for more information on function and components.
 
 
 ## Example
 ```
-import getdata
-import PDB_Data_Processing
+# import packages
+import pdb_autofill as pdb
+import warnings
 
-# downloads sample dataset from our drive into your local machine
-getdata.get_samples()
+# ignore warnings when there is a discontinuity in PDB file
+warnings.filterwarnings("ignore")
 
-# names of PDB files to explore
-protein_list = ['1a0j', '1a3b', '1a7v', '1a09', '1a46', '1a52', '1a55', '1a95', '1ad4', '1adw']
+# list the names of pdb files
+protein_list = ['1gey', '1gzc', '1ufo', '2hi2', '2jfk', '2o73', '2qqt', '2x82',
+                '2y39', '2z91', '3d5m', '3gem', '3qun', '3ueo', '4bal', '4msw',
+                '4wji', '4y79', '5uez', '7fdr']
 
-# extract features of interest to dataframe
-pdb.extracted_features('small_sample/', protein_list)
+# list the directory
+directory = 'small_data/'
 
+# classify the protein of interest
+protein_of_interest = 5 (number in the filename list)
+
+pdb.pdb_autofill(directory, protein_list, protein_of_interest
 ```
 
 
