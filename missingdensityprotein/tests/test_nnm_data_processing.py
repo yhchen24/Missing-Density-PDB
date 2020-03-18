@@ -1,4 +1,4 @@
-import nnm_data_processing
+import dataprocess.nnm_data_processing as nnm_data_processing
 import warnings
 
 warnings.filterwarnings("ignore")
