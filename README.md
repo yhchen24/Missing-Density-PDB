@@ -22,9 +22,9 @@ PDB autofill classifies the reason behind missing electron densities in crystall
 ## Features
 
 * Classify the reason for missing residues in PDB files according to features as described below
-* Data processing of PDB files. Features available to extract in this module include: protein sequences to DataFrame, resolution of experiment, maximum anisotropic B factor in protein, and number of hydrophobic/nonpolar/electrically charged/special case residues.
+* Data processing of PDB files. Features available to extract in this module include: protein sequences to DataFrame, resolution of experiment, maximum anisotropic B factor in protein, and number of hydrophobic/nonpolar/electrically charged/special case residues
 * Prediction of missing residue coordinates.
-* A sample dataset is available for use in this package for users that are new to PDB files.
+* A sample dataset is available for use in this package for users that are new to PDB files
 
 
 ## Example
@@ -35,7 +35,7 @@ import PDB_Data_Processing
 # downloads sample dataset into your local machine
 getdata.get_samples()
 
-# names of proteins to explore
+# names of PDB files to explore
 protein_list = ['1a0j', '1a3b', '1a7v', '1a09', '1a46', '1a52', '1a55', '1a95', '1ad4', '1adw']
 
 # extract features of interest to dataframe
