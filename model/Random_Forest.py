@@ -43,9 +43,10 @@ def build_own_model(csvfile):
     scores = cross_val_score(RF_model, x, y, cv=5)
     print('Accuracy of the prediction in 5-fold cross-validation = {:.2%}'.
           format(scores.mean()))
+    return scores.mean()
 
 
-def get_reason_prediction(input_data):
+def get_reason_prediction(csvfile, row):
     """
     Getting prediction that if you will get missing residues under this
     experiment conditions, and most used features of nodes that input
@@ -55,13 +56,24 @@ def get_reason_prediction(input_data):
     # load model
     RF_model = joblib.load('RandomForest_model.pkl')
 
+    # dataset
+    data = pd.read_csv(csvfile, index_col='Protein')
+    df1 = pd.DataFrame.dropna(data)
+    # Rearrange our dataset
+    df2 = df1[['has_missing_residues', 'Sequence Length', 'resolution', 'b_factor_gt50', 'b_factor_max',
+               'Electrically Charged', 'Hydrophobic', 'Nonpolar Side Chains', 'Special']]
+    feature_name = df2.columns[1:]
+    x = df2.iloc[:, 1:].values
+    input_data = x[row]
+
     # prediction
     # get prediction of test data
-    y_predict = RF_model.predict(input_data)
+    y_predict = RF_model.predict(input_data.reshape(1, -1))
     print('Does this circumstance tend to have missing residues?', y_predict)
 
     # The path of single input data goes through the random forest model
     feature_count_accum = []
+
     for j, tree in enumerate(RF_model.estimators_):
         # matrix of nodes that input data go through(boolean)
         dense_matrix = tree.decision_path(input_data.reshape(1, -1)).todense()
@@ -80,3 +92,4 @@ def get_reason_prediction(input_data):
     feature_order = Counter(feature_count_accum).most_common(8)
     print('Most used features of nodes that input data went through',
           feature_order)
+    return y_predict
