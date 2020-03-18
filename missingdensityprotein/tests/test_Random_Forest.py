@@ -1,4 +1,4 @@
-import Random_Forest as RF
+import randomforest.Random_Forest as RF
 import pandas as pd
 
 
