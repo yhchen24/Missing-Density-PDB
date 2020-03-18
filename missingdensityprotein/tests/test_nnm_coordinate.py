@@ -1,4 +1,4 @@
-import nnm_coordinate
+import neural_networks.nnm_coordinate as nnm_coordinate
 
 filename = '1gzc'
 seed = 23
