@@ -1,11 +1,10 @@
-import Bio
 import os
-import csv
 import random
-import numpy as np
 import pandas as pd
 from Bio.PDB.PDBParser import PDBParser
 from glob import glob
+
+import protein_properties
 
 
 def samples_statistics(directory):
@@ -142,7 +141,6 @@ def extraction_residues_headers(directory, protein_list):
                                    columns=["resolution"])
     data_has_missing_residues = pd.DataFrame(data=has_missing_residues_list,
                                              columns=["has_missing_residues"])
-    data_compound = pd.DataFrame(data=compound_list, columns=["compound"])
 
     headers = pd.concat([data_protein, data_name, data_head,
                          data_structure_method, data_resolution,
@@ -150,3 +148,30 @@ def extraction_residues_headers(directory, protein_list):
                          df_bfactor2, df_bfactor3, df_bfactor4], axis=1)
 
     return [res_data, headers]
+
+
+def extracted_features(directory, protein_list):
+    '''
+    This function returns a dataframe consisting of extracted features for use
+    in the random forest and neural network models.
+
+    Parameters
+    ----------
+    directory: directory of pdb files, /local-folder/
+
+    protein_list: list of names of proteins, 'str'
+    '''
+    # extract residues and headers
+    [res_data, headers] = extraction_residues_headers(directory, protein_list)
+
+    # collect amino acid properties
+    properties = protein_properties.residue_groups(res_data)
+
+    # merge the two dataframes
+    merge = pd.concat([headers, properties], axis=1)
+
+    # drop a redundant column between the two dataframes
+    extracted_features = merge.drop(['Protein'], axis=1)
+
+    # return features of interest as dataframe
+    return extracted_features
