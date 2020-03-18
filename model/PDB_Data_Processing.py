@@ -1,6 +1,9 @@
 import os
 import random
+
+import numpy as np
 import pandas as pd
+
 from Bio.PDB.PDBParser import PDBParser
 from glob import glob
 
